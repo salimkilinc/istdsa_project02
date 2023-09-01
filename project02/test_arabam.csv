@@ -1,0 +1,1022 @@
+,price_try,make,series,model,year,km,transmission,fuel,body_type,warranty,from_,wheel_drive,cylinder_number,torque_nm,engine_capacity_cc,engine_power_hp,max_power_rpm,min_power_rpm,acceleration_0to100_sec,max_speed_kmh,average_fuel_consumption_lt,painted_changed
+1500,700000,Ford,Focus,1.6 Titanium,2009,281000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,150,1596,100,6000,4000,"14,2",182,"6,7",Belirtilmemiş
+1501,760000,Renault,Clio,1.5 dCi Icon,2017,162000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,9",176,"3,7",2 boyalı
+1502,400000,Opel,Corsa,1.2 Comfort,2003,205000,Yarı Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,110,1199,75,,,14,170,"6,2","2 değişen, 2 boyalı"
+1503,750000,Ford,Focus,1.6 Ti-VCT Trend X,2014,209000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,158,1596,125,6300,4000,"10,9",198,6,Tamamı orjinal
+1504,115000,Skoda,Favorit,1.3 LX,1993,217000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+1505,452000,Hyundai,Getz,1.4 DOHC Start,2009,227500,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,125,1399,97,6000,3200,"11,2",170,6,1 değişen
+1506,730000,Ford,Focus,1.6 TDCi Trend X,2013,184000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,230,1560,95,3600,2000,"12,5",180,"4,2",Tamamı boyalı
+1507,240000,Fiat,Siena,1.6 HL,2000,272000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,142,1580,101,5500,4500,,186,,Tamamı boyalı
+1508,295000,Mercedes - Benz,200,E,1988,283000,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,,1997,118,,,,,,Tamamı boyalı
+1509,550000,Chevrolet,Cruze,1.6 LS,2011,192000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,154,1598,124,6300,3800,"10,9",190,"6,5",Belirtilmemiş
+1510,615000,Opel,Astra,1.6 Essentia,2013,107000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,7",191,"6,5",2 boyalı
+1511,715000,Skoda,SuperB,1.4 TSI Comfort,2010,207000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,200,1390,125,5000,4000,"10,5",201,"6,8",Belirtilmemiş
+1512,900000,Toyota,Corolla,1.4 D-4D Touch,2016,111350,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,205,1364,90,3800,1800,"14,7",180,"4,1",Belirtilmemiş
+1513,365000,Toyota,Corolla,1.6 GLi,1997,330000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,145,1587,114,,,10,195,,Belirtilmemiş
+1514,595000,Peugeot,301,1.6 HDi Allure,2015,135000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3","1 değişen, 2 boyalı"
+1515,379000,Ford,Fiesta,1.4 TDCi Comfort,2006,278000,Düz,Dizel,Hatchback/3,,Sahibinden,Önden Çekiş,4,160,1399,68,,,"14,9",164,"4,3",2 boyalı
+1516,495000,Renault,Symbol,1.5 dCi Expression,2011,260000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,160,1461,65,3750,1900,"16,5",160,"4,5",Belirtilmemiş
+1517,665000,Volkswagen,Passat,1.6 Trendline,2004,124000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,148,1595,102,,,"12,7",192,"7,7",3 boyalı
+1518,610000,Volkswagen,Golf,1.4 TSi Trendline,2012,197000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1390,122,5000,4000,"9,5",200,"6,2",Belirtilmemiş
+1519,363000,Opel,Astra,1.6 Comfort,2001,345000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1598,100,,,"11,5",188,"7,1",1 değişen
+1520,550000,Honda,Civic,1.6 i-VTEC Dream,2007,223000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1595,125,6500,4200,"10,3",197,"6,7","3 değişen, 10 boyalı"
+1521,1010000,Renault,Megane,1.5 dCi Icon,2017,126000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1461,110,4000,1750,"12,3",187,"3,7",Tamamı orjinal
+1522,759500,Fiat,Egea,1.6 Multijet Easy,2020,62000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,320,1598,120,3750,1750,"9,8",200,"3,9","1 değişen, 3 boyalı"
+1523,1280000,Audi,A3,A3 Sedan 1.6 TDI Sport Line,2017,99500,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,110,3200,1500,"10,7",203,"3,7",Belirtilmemiş
+1524,825000,Audi,A3,A3 Sportback 1.8 TFSI Ambition,2008,136161,Yarı Otomatik,Benzin,Hatchback/3,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1798,160,,,"7,8",222,"6,7",4 boyalı
+1525,470000,Nissan,Note,1.5 dCi Tekna,2008,198000,Düz,Dizel,MPV,,Sahibinden,Önden Çekiş,,,,101 - 125 HP,,,,,,Belirtilmemiş
+1526,700000,Opel,Astra,1.6 Edition,2015,121000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"12,3",185,"6,6",Belirtilmemiş
+1527,300000,Fiat,Palio,1.2 EL,2003,177250,Düz,Benzin,Hatchback/3,,Sahibinden,Önden Çekiş,4,104,1242,81,5000,4000,"13,2",166,"7,2",1 değişen
+1528,240000,Toyota,Corolla,1.3 XL,1993,347000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,111,1332,88,,,"11,5",175,,Belirtilmemiş
+1529,750000,MINI,Cooper,1.6,2013,118000,Otomatik,Benzin,Hatchback/3,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1598,120,6000,4250,"9,1",203,"5,8","1 değişen, 1 boyalı"
+1530,780000,Peugeot,208,1.5 BlueHDi Signature,2020,58400,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1499,102,4000,1750,"9,9",188,"3,5",Tamamı orjinal
+1531,435000,Peugeot,301,1.6 HDi Active,2014,224000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3",Belirtilmemiş
+1532,170000,Fiat,Tempra,1.6 SX,1991,180000,Düz,LPG & Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,,1581,86,,,,,,Belirtilmemiş
+1533,550000,Hyundai,Accent Era,1.4 Start,2008,170000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,125,1399,97,6000,4700,"12,3",177,"6,5",Belirtilmemiş
+1534,565650,Renault,Megane,1.5 dCi Privilege,2011,156665,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,240,1461,105,4000,2000,"10,9",190,"4,5",6 boyalı
+1535,315000,Renault,Megane,1.5 dCi Dynamique,2006,250000,Düz,Dizel,Hatchback/3,,Sahibinden,Önden Çekiş,4,240,1461,106,4000,1900,"11,1",185,"4,5",Tamamı orjinal
+1536,260000,Mitsubishi,Carisma,1.8 GLS,2000,246000,Düz,Benzin,Hatchback/3,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+1537,1550000,Skoda,SuperB,1.6 TDI Prestige,2016,78000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1598,120,3500,1500,11,206,"4,1",Tamamı orjinal
+1538,235000,Tofaş,Kartal,1.6 ie,2001,123300,Düz,LPG & Benzin,Station wagon,,Sahibinden,Arkadan İtiş,4,131,1581,83,5800,3250,,168,,3 boyalı
+1539,445000,Fiat,Linea,1.3 Multijet Urban,2014,190000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",4 boyalı
+1540,400000,Hyundai,Accent Era,1.5 CRDi Mode,2011,224000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,235,1493,110,4000,1900,"11,5",176,"4,6","1 değişen, 3 boyalı"
+1541,930000,Hyundai,Elantra,1.6 CRDi Elite,2016,113000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,300,1582,136,4000,1900,11,200,"4,1",Tamamı orjinal
+1542,302000,Peugeot,206,1.4 HDi X-Design,2006,220315,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,150,1398,69,4000,1750,"14,7",168,"4,3",Belirtilmemiş
+1543,1400000,Volkswagen,Passat,1.6 TDi BlueMotion Comfortline,2018,120000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,120,4000,1750,"10,8",206,4,1 değişen
+1544,145000,Tofaş,Doğan,L,1991,206000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,130,1581,83,5800,2900,"13,1",170,"6,5",3 boyalı
+1545,51500,Toyota,Corolla,1.6 Terra,2004,180000,Otomatik,LPG & Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,150,1598,110,6000,3800,"11,8",175,"7,8",4 boyalı
+1546,499500,Opel,Corsa,1.3 CDTI Essentia,2012,99500,Düz,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,190,1248,75,4000,1750,"14,9",163,4,1 değişen
+1547,444000,Ford,Fiesta,1.4 TDCi Trend,2009,265300,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1399,70,,,"14,9",164,"4,3",1 değişen
+1548,485000,Geely,Emgrand,1.5 GSL Premium,2012,175000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,133,1498,106,5800,4400,,170,"7,2","1 değişen, 6 boyalı"
+1549,298500,Opel,Astra,1.6 GL,1998,474350,Düz,LPG & Benzin,Hatchback/3,Garantisi Yok,Galeriden,Önden Çekiş,4,150,1598,100,,,"11,5",188,"7,4",2 değişen
+1550,210000,Renault,R 19,1.4 Europa RNA,2000,285000,Düz,LPG & Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,100,1397,75,,,,,,Tamamı boyalı
+1551,795000,Volkswagen,Passat,1.6 TDi BlueMotion Trendline,2013,248000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1598,105,4400,2500,"12,2",193,"4,7",4 boyalı
+1552,305000,Peugeot,206,1.4 X-Line,2003,206000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,120,1360,76,5500,3400,"12,7",171,"6,4",12 boyalı
+1553,635000,Seat,Ibiza,1.2 TSI Style,2016,75000,Düz,Benzin,Hatchback/5,-,Sahibinden,Önden Çekiş,4,160,1197,90,5400,1400,"10,7",184,"4,9",2 boyalı
+1554,715000,Renault,Fluence,1.5 dCi Icon,2015,202917,Yarı Otomatik,Dizel,Sedan,-,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4",3 boyalı
+1555,470000,Opel,Vectra,1.6 Comfort,2004,417000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,150,1598,100,,,"12,5",192,"7,5",Belirtilmemiş
+1556,750000,Volkswagen,Passat,1.4 TSi BlueMotion Trendline,2013,255000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1390,122,5000,1500,"10,3",203,"6,4",Belirtilmemiş
+1557,480000,Hyundai,i20,1.4 CRDi Team,2011,240000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,225,1396,75,4000,1750,"16,2",161,"4,4",8 boyalı
+1558,579000,Opel,Astra,1.3 CDTI Enjoy 111.Yıl,"Yıl
+2012",115000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,90,4000,2500,"13,7",172,"5,1",6 boyalı
+1559,285000,Tofaş,Kartal,SLX,1994,34900,Düz,LPG & Benzin,Station wagon,Garantisi Yok,Sahibinden,Arkadan İtiş,4,131,1581,83,5800,3250,,168,,Tamamı boyalı
+1560,220000,Alfa Romeo,146,1.6 L,1996,230000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,134,1596,103,5600,4200,"11,5",187,,Belirtilmemiş
+1561,274000,Hyundai,Elantra,1.6 GLS,2000,294000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,142,1599,116,5800,3000,"11,2",193,"8,4",Belirtilmemiş
+1562,425000,Renault,Symbol,1.2 Authentique,2012,168000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,105,1149,75,5500,4250,13,167,"5,9",5 boyalı
+1563,625000,Hyundai,i20,1.2 MPI Style,2016,158000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,121,1248,84,6000,4000,"12,7",170,"5,1",Tamamı orjinal
+1564,770000,Renault,Fluence,1.5 dCi Icon,2015,203000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,1750,11,185,"4,6",Tamamı orjinal
+1565,805000,Opel,Astra,1.3 CDTI Business,2015,120000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,190,1248,95,4000,1750,"14,6",180,"4,1",Belirtilmemiş
+1566,215000,Renault,R 19,1.4 Europa RNA,2000,255000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,100,1397,75,,,,,,6 boyalı
+1567,499000,Renault,Symbol,1.5 dCi Joy,2016,227000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,2",167,"3,9",2 boyalı
+1568,400000,Renault,Symbol,1.5 dCi Authentique,2010,257000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,160,1461,65,3750,1900,"16,5",160,"4,5",Belirtilmemiş
+1569,295000,Peugeot,306,1.6 XN,1998,208500,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,135,1587,90,,,"13,8",179,"7,7","1 değişen, 11 boyalı"
+1570,780000,Volkswagen,Jetta,1.2 TSi Comfortline,2013,140500,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,175,1197,105,5000,4100,"10,9",190,"5,7",Belirtilmemiş
+1571,640000,Renault,Clio,0.9 TCe Joy,2019,77000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,140,898,90,5000,2500,"12,9",178,5,3 boyalı
+1572,886500,Renault,Megane,1.5 dCi Touch,2016,220000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Var,Galeriden,Önden Çekiş,4,250,1461,110,4000,1750,"12,3",187,"3,7",Belirtilmemiş
+1573,315000,Chevrolet,Kalos,1.4 SE,2005,78000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,123,1399,83,5600,3000,"12,1",170,"7,5",Belirtilmemiş
+1574,485000,Renault,Symbol,1.5 dCi Expression,2011,188000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1461,65,3750,1900,"16,5",160,"4,5","1 değişen, 4 boyalı"
+1575,770000,Opel,Astra,1.6 Edition Plus,2017,56000,Düz,Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,9",193,"6,5","1 değişen, 2 boyalı"
+1576,625000,Volkswagen,Golf,1.6 TDi BlueMotion Midline Plus,2013,221000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,230,1598,90,4800,1400,"11,9",185,"3,8","1 değişen, 9 boyalı"
+1577,665000,Fiat,Egea,1.4 Fire Easy,2020,85445,Düz,LPG & Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,5",185,"5,7",Belirtilmemiş
+1578,925000,Renault,Clio,1.5 dCi Icon,2019,73000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,9",176,"3,7",Belirtilmemiş
+1579,400000,Fiat,Albea,Sole 1.3 Multijet Premio Plus,2011,365000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,180,1248,70,4000,1750,"14,5",160,"4,7",Belirtilmemiş
+1580,150000,Fiat,Uno,70 S,1997,240000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,90,1372,71,5750,3500,,,,Belirtilmemiş
+1581,886500,Volkswagen,Jetta,1.4 TSi Comfortline,2014,145253,Düz,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,200,1390,122,5000,1500,"9,8",202,"6,2",Belirtilmemiş
+1582,585000,Honda,Jazz,1.4 ES Elite,2009,245000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,119,1339,83,5700,2800,"12,3",160,"5,9","2 değişen, 2 boyalı"
+1583,1055000,Skoda,SuperB,1.4 TSI Active,2018,77000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1395,125,6000,4000,"9,9",208,"5,3",Belirtilmemiş
+1584,265000,Daewoo,Lanos,1.6 SX,1998,357410,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,,,1201 - 1400 cm3,76 - 100 HP,,,,,,"1 değişen, 1 boyalı"
+1585,130000,Lada,Samara,1.5,1994,180000,Düz,LPG & Benzin,Hatchback/3,,Sahibinden,Önden Çekiş,4,110,1500,75,4800,2800,15,150,,1 değişen
+1586,435000,Opel,Astra,1.6 Elegance,2001,278000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1598,100,,,"11,5",188,"7,1",3 boyalı
+1587,435000,Ford,Fiesta,1.4 TDCi Trend,2009,240000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1399,70,,,"14,9",164,"4,3",1 değişen
+1588,630000,Dacia,Sandero,1.5 dCi Stepway,2015,100000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"11,8",167,4,Tamamı orjinal
+1589,260000,Volkswagen,Polo,1.6 Comfortline,1998,236600,Düz,LPG & Benzin,Hatchback/3,,Sahibinden,Önden Çekiş,4,135,1598,75,,,"12,2",172,"6,9",Belirtilmemiş
+1590,370000,Renault,Clio,1.4 Authentique,2005,225000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,114,1390,75,5500,4250,"12,5",170,"7,1",Belirtilmemiş
+1591,1325000,Ford,Focus,1.5 TDCi Trend X,2020,58000,Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,300,1500,120,,,"10,2",196,"4,3",Belirtilmemiş
+1592,395000,Volkswagen,Passat,1.8 T Highline,1998,356000,Düz,LPG & Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,210,1781,150,,,"8,9",217,"8,1",Belirtilmemiş
+1593,480000,Fiat,Linea,1.3 Multijet Urban,2012,201000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9","1 değişen, 3 boyalı"
+1594,520000,Ford,Fiesta,1.4 TDCi Titanium X,2012,222500,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1398,70,4000,1750,"14,9",162,"4,2","2 değişen, 6 boyalı"
+1595,310000,Hyundai,Accent Era,1.4 Team,2008,221000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,125,1399,97,6000,4700,"12,3",177,"6,5","1 değişen, 4 boyalı"
+1596,919000,Renault,Megane,1.5 dCi Icon,2017,183000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1461,110,4000,1750,"12,5",190,"3,8",2 boyalı
+1597,630000,Citroen,C-Elysee,1.6 HDi Attraction,2016,105000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3",Tamamı orjinal
+1598,420000,Fiat,Punto,Grande 1.3 Multijet Emotion,2008,185000,Düz,Dizel,Hatchback/5,-,Sahibinden,Önden Çekiş,4,200,1248,90,4000,1750,"11,9",175,"4,6",2 boyalı
+1599,"740000 
+                                        
+
+
+                                725000",Hyundai,i20,1.2 MPI Style,2016,130000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,121,1248,84,6000,4000,"12,7",170,"5,1",Tamamı orjinal
+1600,695000,Mazda,3,1.6 Impressive,2011,194000,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,145,1598,105,6000,4000,"13,1",173,"7,5","1 değişen, 3 boyalı"
+1601,450000,Hyundai,Accent Era,1.4 Team,2010,240000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,125,1399,97,6000,4700,"12,3",177,"6,5","1 değişen, 3 boyalı"
+1602,175000,Renault,R 12,Toros,1994,35000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,,1397,72,5100,3000,,,,Belirtilmemiş
+1603,480000,Toyota,Corolla,1.6 XEi,1997,235000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,145,1587,105,,,10,195,,1 değişen
+1604,830000,Volkswagen,Polo,1.2 Trendline,2016,40300,Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,,,1201 - 1400 cm3,,,,,,,Belirtilmemiş
+1605,605000,Ford,Focus,1.6 Ti-VCT Style,2013,126000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,158,1596,125,6300,4000,"10,9",198,6,Belirtilmemiş
+1606,650000,Citroen,C3,1.4 e-HDi Confort,2013,56000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1398,76,4000,2000,"13,5",163,"4,1",Belirtilmemiş
+1607,560000,Opel,Astra,1.3 CDTI Essentia Konfor,2012,255000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1248,90,2500,1750,"13,7",172,"4,9","2 değişen, 2 boyalı"
+1608,310000,Renault,Clio,1.5 dCi Authentique,2003,283000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,160,1461,65,,,15,162,"4,7",Belirtilmemiş
+1609,1150000,Volkswagen,Passat,1.4 TSi BlueMotion Exclusive,2013,125000,Yarı Otomatik,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1390,122,5000,1500,"10,3",205,6,Tamamı orjinal
+1610,285000,Renault,R 12,Toros,1995,73121,Düz,LPG & Benzin,Station wagon,Garantisi Yok,Sahibinden,Önden Çekiş,4,,1397,72,5100,3000,,,,Tamamı orjinal
+1611,290000,Geely,Echo,1.3 Comfort,2009,189000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,110,1342,86,6000,5200,,150,"7,2",4 boyalı
+1612,419950,Fiat,Linea,1.3 Multijet Active Plus,2010,252000,Düz,Dizel,Sedan,-,Sahibinden,Önden Çekiş,4,200,1248,90,4000,1750,"13,8",170,"4,9",1 değişen
+1613,645000,Renault,Symbol,1.5 dCi Joy,2014,74000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,2",167,"3,9",Tamamı orjinal
+1614,985000,Volkswagen,Passat,1.4 TSi BlueMotion Comfortline,2013,126000,Yarı Otomatik,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,240,1390,160,5800,4500,"8,5",220,"6,7",Tamamı orjinal
+1615,510000,Ford,Fiesta,1.4 TDCi Trend,2010,245000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1398,70,4000,1750,"14,9",162,"4,2",3 boyalı
+1616,1250000,MINI,Cooper Clubman,1.5 Türkiye Paketi,2016,56000,Otomatik,Benzin,Station wagon,-,Sahibinden,Önden Çekiş,3,220,1499,136,4400,1250,"9,1",205,"5,4",1 değişen
+1617,1055000,Opel,Astra,1.6 CDTI OPC Line Sport,2017,117000,Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,320,1598,136,3500,2000,"9,7",205,"4,6","1 değişen, 3 boyalı"
+1618,427000,Chevrolet,Aveo,1.2 LS,2011,167500,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,115,1229,70,5600,4000,"14,3",162,"5,9","1 değişen, 2 boyalı"
+1619,615000,Nissan,Note,1.5 dCi Tekna,2014,124000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1461,90,4000,1750,"11,9",179,"3,6",Belirtilmemiş
+1620,521000,Ford,Fiesta,1.4 Collection,2009,142000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,124,1388,80,5700,3500,"13,2",167,"6,2",2 boyalı
+1621,304500,Peugeot,206,1.4 HDi X-Design,2005,275000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1398,69,4000,1750,"14,7",168,"4,3",Belirtilmemiş
+1622,480000,Renault,Symbol,1.5 dCi SL Collection,2012,152000,Düz,Dizel,Sedan,Garantisi Var,Galeriden,Önden Çekiş,4,200,1461,85,3750,1750,"12,3",177,"4,3","2 değişen, 4 boyalı"
+1623,230000,Hyundai,Accent,1.5 GLS,1996,280000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,130,1495,92,5500,3000,"11,7",176,,Belirtilmemiş
+1624,520000,Volkswagen,Jetta,1.9 TDi Midline,2007,211000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1896,105,4000,1900,"11,9",189,"5,2",9 boyalı
+1625,318000,Toyota,Corolla,1.6 XLi,1998,320000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,145,1587,105,,,10,195,,Belirtilmemiş
+1626,180000,Tofaş,Şahin,1.6 ie,2000,209000,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,122,1581,83,5500,3250,,,,Belirtilmemiş
+1627,515000,Hyundai,Accent Era,1.4 Team,2010,210000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,125,1399,97,6000,4700,"12,3",177,"6,5",3 boyalı
+1628,600000,Citroen,C-Elysee,1.6 HDi Shine,2017,138000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,4000,1750,"11,2",180,"4,1","1 değişen, 1 boyalı"
+1629,877000,Skoda,Fabia,1.0 GreenTec Style,2017,21000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,3,200,999,110,5500,2000,"9,8",196,"4,6",Belirtilmemiş
+1630,385000,Kia,Cerato,1.5 CRDi EX,2005,276000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,235,1493,102,4200,2000,"12,5",175,"4,9","2 değişen, 7 boyalı"
+1631,510000,Hyundai,i30,1.4 CVVT Team,2011,135000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,140,1396,109,6200,5000,"12,6",187,"6,1",2 boyalı
+1632,528750,Renault,Clio,1.5 dCi Executive,2011,245000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,185,1461,76 - 100 HP,3750,2000,"12,7",171,"4,8",Belirtilmemiş
+1633,1290000,Toyota,Corolla,1.5 Flame X-Pack,2022,90,Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,3,153,1490,125,6600,4800,"12,1",190,"5,8",Tamamı orjinal
+1634,389000,Fiat,Linea,1.3 Multijet Active Plus,2013,303000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9","1 değişen, 5 boyalı"
+1635,605000,Ford,Focus,1.6 Ti-VCT Trend,2012,210000,Yarı Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,158,1596,125,6300,4000,"11,1",196,6,3 boyalı
+1636,355000,Fiat,Albea,1.3 Multijet Dynamic,2005,290000,Düz,Dizel,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+1637,1525000,Volvo,V40 Cross Country,1.5 T3 Advance,2018,70000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1498,152,5000,1700,"8,5",210,"5,6",1 değişen
+1638,970000,Skoda,Octavia,1.6 TDI Elegance CR,2013,127000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1598,105,3000,1500,"10,9",194,"3,9",Belirtilmemiş
+1639,739000,Renault,Clio,1.5 dCi Icon,2015,72900,Düz,Dizel,Hatchback/5,-,Sahibinden,Önden Çekiş,4,220,1461,90,,,"11,7",181,"3,6",1 boyalı
+1640,"855000 
+                                        
+
+
+                                799000",Volkswagen,Jetta,1.2 TSi Comfortline,2013,57000,Düz,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,175,1197,105,5000,4100,"10,9",190,"5,7",Belirtilmemiş
+1641,677753,Citroen,C4,1.6 e-HDi Confort,2012,164000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,270,1560,114,3600,1750,"11,2",190,"4,2","1 değişen, 2 boyalı"
+1642,712000,Peugeot,308,1.6 e-HDi Sportium,2013,220000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,270,1560,114,3600,1750,"11,4",190,4,"1 değişen, 6 boyalı"
+1643,620000,Volkswagen,Polo,1.4 TDi Trendline,2016,177000,Düz,Dizel,Hatchback/5,-,Sahibinden,Önden Çekiş,3,210,1422,75,3750,1500,"12,9",173,"3,6",9 boyalı
+1644,750000,Toyota,Corolla,1.6 Elegant,2010,140350,Otomatik,LPG & Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,157,1598,124,6000,5200,"11,9",185,"7,1","1 değişen, 3 boyalı"
+1645,677000,Volkswagen,Jetta,1.4 TSi Comfortline,2007,135000,Düz,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,220,1390,140,5600,1750,"9,3",207,"7,1",2 boyalı
+1646,490000,Toyota,Corolla,1.4 D-4D Comfort,2008,353000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,190,1364,90,3800,1800,12,175,"4,9",1 değişen
+1647,845000,Volkswagen,Golf,1.2 TSi Comfortline,2013,146500,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,175,1197,105,5000,1550,"10,2",192,"4,8",3 boyalı
+1648,450000,Hyundai,Getz,1.5 VGT HY KLM,2007,140000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,235,1493,110,4000,1900,"11,1",180,"4,5",Belirtilmemiş
+1649,630000,Dacia,Lodgy,1.5 dCi Laureate,2013,155000,Düz,Dizel,MPV,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1461,90,3750,1750,"12,4",169,"4,2",1 boyalı
+1650,195000,Fiat,Tempra,1.6 SX A,1995,220000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,124,1581,90,5750,2750,"12,9",182,,Belirtilmemiş
+1651,550000,Volkswagen,Polo,1.2 Trendline,2013,59500,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,112,1198,70,5400,3000,"14,1",165,"5,5",2 boyalı
+1652,400000,Fiat,Linea,1.3 Multijet Active Plus,2010,276000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,90,4000,1750,"13,8",170,"4,9","2 değişen, 2 boyalı"
+1653,425000,Seat,Toledo,1.6 Signo Plus,2004,225000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,148,1598,105,,,"10,9",192,"6,9",Tamamı orjinal
+1654,880000,Renault,Fluence,1.5 dCi Icon,2015,62500,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,1750,11,185,"4,6",Belirtilmemiş
+1655,272000,Peugeot,206,1.4 HDi X-line,2006,209685,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1398,71,4000,1750,"13,2",168,"4,3",Belirtilmemiş
+1656,745000,Ford,Focus,1.6 TDCi Trend X,2015,143000,Düz,Dizel,Station wagon,,Sahibinden,Önden Çekiş,4,230,1560,95,3600,1500,"12,7",180,"4,2","1 değişen, 1 boyalı"
+1657,750000,Renault,Clio,1.2 Turbo Icon,2016,70000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,190,1197,120,,,"9,4",199,"5,2",2 boyalı
+1658,335000,Hyundai,Accent,1.6 Admire,2006,276000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,140,1599,112,5800,3000,"12,1",180,8,"2 değişen, 10 boyalı"
+1659,730000,Renault,Fluence,1.5 dCi Icon,2014,160000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4",Belirtilmemiş
+1660,650000,Opel,Astra,1.3 CDTI Enjoy 111.Yıl,"Yıl
+2012",111500,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,90,4000,2500,"13,7",172,"5,1",Belirtilmemiş
+1661,450000,BMW,3 Serisi,320i,2000,298000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,6,210,1991,170,6700,4250,"9,3",223,"9,4","2 değişen, 7 boyalı"
+1662,195000,Fiat,Tempra,1.6 SX AK SW,1995,160000,Düz,LPG & Benzin,Station wagon,Garantisi Yok,Sahibinden,Önden Çekiş,4,124,1581,75,5750,2750,"14,3",165,"10,3",3 boyalı
+1663,825000,Ford,Focus,1.6 Ti-VCT Trend X,2015,88000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,159,1596,125,6000,4000,"10,9",192,6,Belirtilmemiş
+1664,870000,Opel,Insignia,1.6 CDTI Cosmo Sports Tourer,2016,242000,Otomatik,Dizel,Station wagon,Garantisi Yok,Sahibinden,Önden Çekiş,4,320,1598,136,4000,2250,"11,4",195,"5,1","1 değişen, 2 boyalı"
+1665,950000,Skoda,Octavia,1.6 TDI Optimal,2016,180000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1598,110,3250,1500,"10,9",195,"3,7",Tamamı orjinal
+1666,1450000,Audi,A4,A4 Sedan 1.4 TFSI,2017,219000,Yarı Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,250,1395,150,5000,1500,"8,5",210,"5,2",2 boyalı
+1667,497500,Opel,Corsa,1.3 CDTI Essentia,2013,146750,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,190,1248,75,4000,1750,"14,9",163,4,7 boyalı
+1668,705000,Peugeot,208,1.2 PureTech Active,2018,98750,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,3,118,1199,83,5750,2750,"14,5",178,"4,2",3 değişen
+1669,500000,Fiat,Linea,1.3 Multijet Pop,2015,190000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",2 boyalı
+1670,162000,Renault,R 9,1.4 Broadway,1991,217306,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,,1390,83,5750,3500,,168,,Tamamı boyalı
+1671,520000,Peugeot,207,1.4 HDi Premium,2006,224000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1398,71,4000,2000,"15,1",166,"4,5",4 boyalı
+1672,580000,Ford,Focus,1.6 TDCi Trend,2009,256000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,240,1560,110,4000,1750,"11,1",190,"4,5","1 değişen, 3 boyalı"
+1673,405000,Fiat,Palio,1.3 Multijet Active Sole,2009,151800,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,180,1248,70,4000,1750,14,164,"4,6",Belirtilmemiş
+1674,810000,Ford,Focus,1.6 TDCi Titanium,2012,149500,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,270,1560,115,3600,2500,"10,9",193,"4,2",Tamamı orjinal
+1675,445000,Fiat,Linea,1.3 Multijet Easy,2012,195000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",3 boyalı
+1676,765000,Opel,Astra,1.6 Edition Plus,2016,63000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,9",193,"6,5",Tamamı orjinal
+1677,425000,Ford,Fiesta,1.4 TDCi Comfort,2006,200000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1399,68,4000,2000,"14,9",164,"4,3",1 boyalı
+1678,175000,Fiat,Tipo,1.4 SX ie,1997,245000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,106,1372,70,6000,3250,"12,9",161,,"4 değişen, 1 boyalı"
+1679,875000,Renault,Megane,1.6 Joy,2016,48000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,156,1598,115,5500,4000,"11,8",190,"6,3",Belirtilmemiş
+1680,675000,Renault,Clio,1.0 SCe Joy,2020,36000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,95,999,72,6300,3500,"16,4",162,"4,9",Tamamı orjinal
+1681,980000,Ford,Focus,1.6 TDCi Titanium,2017,32000,Düz,Dizel,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,270,1560,115,3600,2500,"10,9",180,"4,2",Belirtilmemiş
+1682,1075000,Renault,Megane,1.3 TCe Joy,2021,40000,Yarı Otomatik,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,240,1332,140,5000,1600,9,205,"5,7",1 boyalı
+1683,1158000,Toyota,Corolla,1.6 Flame,2019,36000,Otomatik,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,159,1598,132,6400,4400,"10,2",190,"5,5",Tamamı orjinal
+1684,715000,Fiat,Egea,1.4 Fire Easy,2020,37200,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,5",185,"5,7",Tamamı orjinal
+1685,986000,Renault,Clio,1.0 TCe Icon,2022,6002,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,140,999,90,5500,2250,12,178,5,Tamamı orjinal
+1686,999999,Renault,Clio,1.3 TCe Icon,2020,18865,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Var,Sahibinden,Önden Çekiş,4,240,1332,130,5000,1600,9,200,"5,2",Tamamı orjinal
+1687,218000,Renault,R 9,1.4 Broadway RNi,1999,195000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,,1397,72,,,,175,,Belirtilmemiş
+1688,300000,Peugeot,306,1.6 XT,2001,233000,Düz,LPG & Benzin,Station wagon,-,Sahibinden,Önden Çekiş,4,135,1587,90,,,"14,1",178,"7,3",3 boyalı
+1689,847750,Toyota,Avensis,1.6 Elegant Extra,2012,101000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1598,132,6400,4400,"10,4",200,"6,5",Tamamı orjinal
+1690,855000,Seat,Leon,1.6 TDI Style,2016,133000,Düz,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1598,110,3250,1500,"10,5",194,"3,8",Belirtilmemiş
+1691,565000,Peugeot,301,1.6 HDi Allure,2013,140000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3","1 değişen, 4 boyalı"
+1692,715000,Hyundai,i20,1.4 MPI Style,2014,118999,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,134,1368,100,6000,3500,"12,9",170,"6,4","2 değişen, 4 boyalı"
+1693,855000,Renault,Megane,1.5 dCi Touch,2018,168000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1461,110,4000,1750,"12,5",190,"3,8",Tamamı orjinal
+1694,755000,Volkswagen,Jetta,1.2 TSi Trendline,2012,150000,Yarı Otomatik,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,175,1197,105,5000,4100,"10,9",190,"5,4",Belirtilmemiş
+1695,890000,Volkswagen,Jetta,1.4 TSi Comfortline,2013,132000,Yarı Otomatik,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,200,1390,122,5000,1500,"9,8",202,6,Tamamı orjinal
+1696,1049000,Mercedes - Benz,C,C 180 BlueEFFICIENCY Avantgarde,2011,180000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Arkadan İtiş,4,250,1796,156,5000,1600,"8,9",223,"6,7",Tamamı orjinal
+1697,915000,Renault,Megane,1.3 TCe Joy,2021,22000,Yarı Otomatik,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,240,1332,140,5000,1600,9,205,"5,3","2 değişen, 2 boyalı"
+1698,117000,Renault,R 11,TX,1989,261000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,,1721,74,,,,,,Belirtilmemiş
+1699,105000,Tofaş,Doğan,SLX,1993,400000,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,125,1581,83,5800,3000,"13,2",170,,Belirtilmemiş
+1700,410000,Ford,Fiesta,1.25 Trend,2010,187000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,114,1242,82,5800,4200,"13,3",168,"5,7","2 değişen, 4 boyalı"
+1701,680000,Volkswagen,Golf,1.6 Trendline,2010,199000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,148,1595,102,5600,3800,"11,3",188,"6,7","1 değişen, 2 boyalı"
+1702,970000,Peugeot,208,1.2 PureTech Allure Selection,2021,12500,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,230,1199,132,5500,1750,"8,7",208,"4,5",Tamamı orjinal
+1703,390000,Hyundai,Getz,1.5 CRDi VGT Start,2011,295500,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,216,1493,88,4000,1900,"12,1",173,"4,5",Belirtilmemiş
+1704,675000,Fiat,Egea,1.6 Multijet Urban Plus,2020,37000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,320,1598,120,3750,1750,"9,7",199,"4,2",Tamamı orjinal
+1705,480000,Renault,Symbol,1.5 dCi Expression,2011,280000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,200,1461,85,3750,1750,"12,3",177,"4,3",Belirtilmemiş
+1706,1190000,Opel,Insignia,1.6 CDTI Sport,2016,56000,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,320,1598,136,4000,2250,"10,9",200,5,Tamamı orjinal
+1707,895000,Fiat,Egea,1.3 Multijet Urban Plus,2019,61000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"11,7",183,"4,1",Belirtilmemiş
+1708,650000,Fiat,Egea,1.4 Fire Easy,2020,63000,Düz,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,5",185,"5,7",1 boyalı
+1709,819000,Opel,Astra,1.4 T Enjoy,2016,70000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,230,1399,150,5000,2000,"8,3",215,"5,5",4 boyalı
+1710,665000,Fiat,Bravo,1.6 Mjet Emotion,2009,250000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,300,1598,120,4000,1500,"10,5",195,"4,6",Belirtilmemiş
+1711,479000,Hyundai,i10,1.0 D-CVVT Style,2014,157000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,95,998,65,5500,3500,"14,9",155,"5,1",3 boyalı
+1712,685000,Mercedes - Benz,B,B 150 Boyut,2009,185000,Otomatik,Benzin,MPV,Garantisi Yok,Sahibinden,Önden Çekiş,4,140,1498,95,5200,3500,"14,2",174,"7,3",3 boyalı
+1713,650000,Toyota,Corolla,1.6 Comfort,2009,224000,Yarı Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,157,1598,124,6000,5200,"12,1",195,"6,7",1 boyalı
+1714,685000,Peugeot,RCZ,1.6 THP Yearling,2011,235000,Otomatik,Benzin,Coupe,,Sahibinden,Önden Çekiş,4,240,1598,158,6000,1400,"8,4",213,"7,3",2 değişen
+1715,385000,Peugeot,206+,1.4 HDi Comfort,2010,258000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1398,71,4000,1750,"13,8",166,"4,2",2 değişen
+1716,1290000,Volkswagen,Passat,1.4 TSi BlueMotion Comfortline,2017,104000,Yarı Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,200,1395,125,5000,1400,"9,7",208,5,"1 değişen, 1 boyalı"
+1717,470000,Citroen,C3,1.4 HDi Confort,2011,207442,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1398,71,4000,2000,"13,5",163,"4,1","2 değişen, 6 boyalı"
+1718,355000,Fiat,Albea,Sole 1.3 Multijet Premio Plus,2012,192000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,180,1248,70,4000,1750,"14,5",160,"4,7","2 değişen, 10 boyalı"
+1719,390000,Fiat,Albea,Sole 1.3 Multijet Active Plus,2011,205000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,180,1248,70,4000,1750,"14,5",160,"4,7",Belirtilmemiş
+1720,490000,BMW,3 Serisi,318i Standart,1999,299000,Düz,Benzin,Sedan,Garantisi Yok,Galeriden,Arkadan İtiş,4,180,1895,118,5700,3250,"10,4",206,"7,9",2 boyalı
+1721,625000,Citroen,C-Elysee,1.6 BlueHDi Live,2018,118000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,254,1560,100,3750,1750,"10,8",183,"3,8","2 değişen, 1 boyalı"
+1722,870000,BMW,3 Serisi,320d Premium,2010,310000,Otomatik,Dizel,Sedan,Garantisi Yok,Galeriden,Arkadan İtiş,4,350,1995,177,,,"8,3",225,"4,8",Belirtilmemiş
+1723,215000,Hyundai,Accent,1.3 LS,1998,303000,Düz,LPG & Benzin,Sedan,,Sahibinden,,,,,,,,,,,2 değişen
+1724,388000,Fiat,Albea,1.2 HL,2004,199000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,114,1242,80,5000,4000,"13,5",162,7,Belirtilmemiş
+1725,1610000,BMW,3 Serisi,320i ED 40th Year Edition,2015,152000,Otomatik,Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,250,1598,170,4800,1500,"7,6",230,"5,3",Belirtilmemiş
+1726,885000,Ford,Focus,1.5 TDCi Trend X,2017,144000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,300,1499,120,3600,1750,"10,9",193,"4,2",2 boyalı
+1727,615000,Renault,Megane,1.5 dCi Privilege,2012,149000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,7",185,"4,4",Belirtilmemiş
+1728,610000,Seat,Leon,1.6 Style,2009,238000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,148,1595,102,5600,3800,"11,7",184,"7,2",Tamamı orjinal
+1729,225000,Peugeot,206,1.4 HDi Pop Art,2006,298800,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1398,69,4000,1750,"14,7",168,"4,3","2 değişen, 8 boyalı"
+1730,765000,Skoda,Octavia,1.6 TDI Optimal,2016,236000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1598,110,3250,1500,"10,9",195,"3,7","1 değişen, 5 boyalı"
+1731,375000,Chevrolet,Kalos,1.4 SX,2005,189500,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,130,1399,94,6200,3400,"11,9",170,"7,6","1 değişen, 5 boyalı"
+1732,865000,Volkswagen,Passat,1.4 TSi BlueMotion Comfortline,2011,201000,Yarı Otomatik,Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,200,1390,122,5000,1500,"10,3",205,6,Belirtilmemiş
+1733,895000,Renault,Clio,1.0 TCe Icon,2020,49150,Otomatik,Benzin,Hatchback/5,Garantisi Var,Galeriden,Önden Çekiş,3,142,999,100,5000,1750,"11,5",182,5,Tamamı orjinal
+1734,1435000,BMW,1 Serisi,116d Joy Plus,2017,35000,Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Arkadan İtiş,3,270,1496,116,4000,1750,"10,3",200,"4,1",Tamamı orjinal
+1735,710000,Hyundai,Elantra,1.6 D-CVVT Tune,2013,164000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,158,1591,132,6300,4850,"10,7",200,"6,4",1 değişen
+1736,600000,Renault,Clio,1.5 dCi Joy,2016,188000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1461,75,,,"14,3",168,"3,6",Belirtilmemiş
+1737,445000,Renault,Megane,1.5 dCi Authentique,2008,275000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,105,4000,2000,"12,7",182,"4,9",2 değişen
+1738,960000,Skoda,Octavia,1.6 TDI Optimal,2014,156000,Otomatik,Dizel,Sedan,,Sahibinden,,,,,,,,,,,2 boyalı
+1739,607500,Renault,Clio,1.2 Joy,2013,83500,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,105,1149,75,,,"15,4",164,"5,5",Tamamı orjinal
+1740,1850000,Mercedes - Benz,C,C 180 AMG,2016,53000,Otomatik,Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,250,1595,156,5300,4000,"8,5",223,"5,8",Tamamı orjinal
+1741,745000,Opel,Astra,1.3 CDTI Sport,2012,170000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,190,1248,95,4000,1750,"14,5",175,"4,1",Belirtilmemiş
+1742,430000,BMW,3 Serisi,318i Standart,1999,397000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,180,1895,118,5700,3250,"10,4",206,"7,9","3 değişen, 10 boyalı"
+1743,770000,Ford,Focus,1.6 TDCi Titanium,2013,148000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,270,1560,115,3600,2500,"10,9",193,"4,2",Tamamı orjinal
+1744,430000,Opel,Corsa,1.2 Twinport Essentia,2013,185000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,115,1229,85,5600,4000,"13,6",172,"5,3","3 değişen, 8 boyalı"
+1745,222000,Tata,Marina,1.4 TDI Comfort,2007,262000,Düz,Dizel,Station wagon,Garantisi Yok,Sahibinden,Önden Çekiş,4,135,1405,70,4500,2000,,155,"7,3",Belirtilmemiş
+1746,783000,Renault,Megane,1.5 dCi Touch,2016,154000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1461,110,4000,1750,"12,5",190,"3,8",Tamamı orjinal
+1747,729000,Fiat,Egea,1.4 Fire Mirror,2020,37000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,5",185,"5,7",Tamamı orjinal
+1748,455000,Mitsubishi,Galant,2.4 GDI GLS,2003,135000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,,,,2001 - 2500 cm3,101 - 125 HP,,,,,,Belirtilmemiş
+1749,"475000 
+                                        
+
+
+                                460000",Fiat,Linea,1.3 Multijet Active Plus,2011,189000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,90,4000,1750,"13,8",170,"4,9",Tamamı orjinal
+1750,460000,Honda,Jazz,1.4 LS Sport,2006,299000,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,119,1339,83,5700,2800,"12,3",160,"5,8",4 boyalı
+1751,820000,Ford,C-Max,1.6 TDCi Titanium X,2012,139000,Düz,Dizel,MPV,,Sahibinden,Önden Çekiş,4,270,1560,115,3600,2500,"11,3",184,"4,6",1 boyalı
+1752,650000,Honda,Civic,1.6 i-VTEC Elegance,2007,270000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1595,125,6500,4200,"10,3",192,"7,1","1 değişen, 3 boyalı"
+1753,215000,Mazda,323,1.5 Practica,1998,244000,Düz,LPG & Benzin,Hatchback/3,Garantisi Yok,Sahibinden,Önden Çekiş,4,132,1489,88,5500,3500,"11,8",173,"7,5","1 değişen, 12 boyalı"
+1754,699000,Dacia,Sandero,0.9 TCe Stepway,2016,52000,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,,,,,,,,,,,1 boyalı
+1755,175000,Tofaş,Şahin,1.4,1999,150000,Düz,LPG & Benzin,Sedan,,Sahibinden,,,,,,,,,,,"1 değişen, 1 boyalı"
+1756,485000,Opel,Astra,1.6 Elegance,2005,190700,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1598,103,6000,3900,"12,3",183,"7,5",Belirtilmemiş
+1757,670000,Kia,Rio,1.4 CRDi Sporty,2013,97000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1396,90,4000,1750,"14,2",172,"4,5",1 boyalı
+1758,390000,BMW,5 Serisi,520i Standart,1997,380000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,6,190,1991,150,6000,4000,"10,6",211,"10,2",Tamamı orjinal
+1759,715000,Volkswagen,Passat,1.6 FSi Comfortline,2006,266000,Otomatik,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"12,7",195,"7,7",11 boyalı
+1760,620000,Opel,Insignia,1.6 T Edition Elegance,2010,270000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,230,1598,180,5500,5500,"8,9",225,"7,7",6 boyalı
+1761,789000,Opel,Astra,1.6 Edition,2014,118000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,9",193,"6,5",Tamamı orjinal
+1762,690000,Fiat,500 Ailesi,500L 1.6 Mjet RockStar,2014,127000,Düz,Dizel,MPV,-,Sahibinden,Önden Çekiş,4,320,1598,105,4000,1500,"11,3",182,"4,7",Tamamı orjinal
+1763,195000,Skoda,Felicia,1.3 GLXi,2001,310000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,106,1289,68,,,"13,5",162,"6,7",Belirtilmemiş
+1764,420000,Hyundai,Getz,1.5 CRDi VGT,2008,145000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,216,1493,88,4000,1900,"12,1",173,"4,5",2 boyalı
+1765,730000,Fiat,Egea,1.3 Multijet Urban Plus,2016,162900,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,12,180,"3,7","1 değişen, 1 boyalı"
+1766,720000,Citroen,C4,1.6 e-HDi Exclusive,2012,200300,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,270,1560,114,3600,1750,"11,2",190,"4,2","1 değişen, 4 boyalı"
+1767,956000,Ford,Focus,1.6 Ti-VCT Trend X,2017,36500,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,159,1596,125,6000,4000,"11,7",187,"6,3",2 boyalı
+1768,1050000,Ford,Focus,1.5 TDCi Titanium,2018,101000,Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,300,1500,120,,,"10,2",196,"4,3",Tamamı orjinal
+1769,725000,Toyota,Corolla,1.6 Advance,2017,63150,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1598,132,6400,4400,10,200,"6,3",2 boyalı
+1770,1580000,Mercedes - Benz,C,C 200 d BlueTEC AMG,2015,168000,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,320,1598,136,3800,2600,"9,7",218,"4,2",Belirtilmemiş
+1771,970000,Renault,Megane,1.5 dCi Icon,2018,132000,Yarı Otomatik,Dizel,Sedan,-,Sahibinden,Önden Çekiş,4,250,1461,110,4000,1750,"12,5",190,"3,8",Belirtilmemiş
+1772,650000,Peugeot,301,1.6 BlueHDI Active,2018,121000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,254,1560,102,3750,1750,"10,8",183,"3,9",1 boyalı
+1773,488500,Fiat,Linea,1.3 Multijet Active Plus,2013,131500,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",3 boyalı
+1774,800000,Skoda,Fabia,1.0 GreenTec Style,2018,94000,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,200,999,110,5500,2000,"9,8",196,"4,6",Belirtilmemiş
+1775,560000,Ford,Focus,1.6 Comfort,2011,255000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,150,1596,100,6000,4000,"11,9",182,"6,7",Belirtilmemiş
+1776,916000,Hyundai,i20,1.4 MPI Style Plus,2021,17000,Otomatik,Benzin,Hatchback/5,Garantisi Var,Sahibinden,Önden Çekiş,4,134,1368,100,6000,1500,"12,2",176,"6,1",Tamamı orjinal
+1777,588500,Renault,Fluence,1.5 dCi Touch Plus,2013,235000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4","2 değişen, 4 boyalı"
+1778,860000,Opel,Astra,1.4 T Edition Plus,2019,33000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1364,140,4900,1850,"10,2",207,"6,2",2 boyalı
+1779,565000,Hyundai,Getz,1.4 DOHC HY KLM,2010,88785,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,125,1399,97,6000,3200,"13,9",167,"6,7",Belirtilmemiş
+1780,379000,Renault,Laguna,1.6 Expression,2004,275000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,151,1598,115,6000,4250,"11,5",197,"7,4",Belirtilmemiş
+1781,350000,Renault,Clio,1.5 dCi Authentique,2005,307000,Düz,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,160,1461,65,4000,2000,"15,2",159,"4,9","1 değişen, 5 boyalı"
+1782,495000,Hyundai,Accent Era,1.5 CRDi-VGT Start,2011,258000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,235,1493,110,4000,1900,"11,5",176,"4,6",1 boyalı
+1783,220000,Tofaş,Doğan,S,1995,150000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,130,1581,83,5800,2900,"13,1",170,"6,5",Tamamı orjinal
+1784,460000,Opel,Astra,1.6 Enjoy Elegance,2008,183000,Yarı Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,155,1598,115,,,"12,7",192,"6,6","2 değişen, 6 boyalı"
+1785,310000,Dacia,Logan,1.4,2005,350000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,112,1390,75,5500,3000,13,162,"6,8",9 boyalı
+1786,300000,Renault,R 19,1.4 Europa RL,1996,230000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,,1397,60,,,,,,3 boyalı
+1787,310000,Seat,Cordoba,1.6 Signo,2000,250000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,145,1595,100,,,11,188,"7,8",Belirtilmemiş
+1788,320000,Renault,Clio,1.4 RNA,2000,290000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,114,1390,75,5500,4250,"12,1",170,"7,1",3 boyalı
+1789,550000,Ford,Fiesta,1.4 TDCi Titanium X,2012,163000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1398,70,4000,1750,"14,9",162,"4,2",4 boyalı
+1790,927000,Toyota,Avensis,1.8 Premium,2017,189000,Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,180,1798,147,6400,4000,"10,4",200,"6,1",Belirtilmemiş
+1791,325000,Fiat,Albea,Sole 1.3 Multijet Active,2011,246300,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,180,1248,70,4000,1750,"14,5",160,"4,7","3 değişen, 10 boyalı"
+1792,300000,Mercedes - Benz,300,D,1986,360000,Düz,Benzin,Hatchback/5,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+1793,323000,Mercedes - Benz,200,E,1991,450000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,,1997,118,,,,,,"1 değişen, 4 boyalı"
+1794,380000,Mercedes - Benz,C,C 200 Classic,1996,217000,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,190,1998,136,,,"10,8",198,,10 boyalı
+1795,525000,Fiat,Linea,1.3 Multijet Urban,2012,272000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",2 boyalı
+1796,270000,Renault,R 12,Toros,1992,105054,Düz,LPG & Benzin,Station wagon,Garantisi Yok,Sahibinden,Önden Çekiş,4,,1397,72,5100,3000,,,,1 değişen
+1797,275000,Opel,Vectra,2.0 GLS,1997,370000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,188,1998,136,,,10,215,"8,7","1 değişen, 1 boyalı"
+1798,268000,Peugeot,206,1.4 XR,1999,330000,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,111,1360,76,,,"13,2",160,"6,9",Belirtilmemiş
+1799,295000,Hyundai,Accent,1.5 GLS,2000,205500,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,130,1495,92,5500,3000,"11,7",176,"6,7",Belirtilmemiş
+1800,1320000,Audi,A4,A4 Sedan 2.0 TDI,2015,170000,Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,380,1968,177,4200,1750,"7,9",222,"4,8",2 boyalı
+1801,450000,Hyundai,Elantra,1.6 GLS,2004,265000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,143,1599,107,,,11,176,"7,4","2 değişen, 8 boyalı"
+1802,375000,Hyundai,Accent Era,1.5 CRDi-VGT Start,2009,200000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,235,1493,110,4000,1900,"11,5",176,"4,6","1 değişen, 3 boyalı"
+1803,928000,Seat,Leon,1.4 TSI FR,2014,157000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1395,140,6000,3500,"8,2",211,"5,2",Belirtilmemiş
+1804,615000,Ford,Fiesta,1.25 Trend,2013,148500,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,114,1242,82,5800,4200,"13,3",168,"5,2",Belirtilmemiş
+1805,760000,Opel,Astra,1.6 Edition Plus,2016,108000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,9",193,"6,5",Tamamı orjinal
+1806,325000,Fiat,Linea,1.3 Multijet Easy,2015,224000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",Tamamı boyalı
+1807,550000,Suzuki,SX4,GL,2010,137000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,156,1586,122,6000,4400,"10,7",185,"6,2",2 boyalı
+1808,700000,Renault,Fluence,1.5 dCi Touch,2015,109133,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1461,90,4000,1750,13,180,"4,5",2 değişen
+1809,455000,Hyundai,Getz,1.4 DOHC Start,2010,121000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,125,1399,97,6000,3200,"11,2",170,6,1 değişen
+1810,432500,Opel,Astra,1.3 CDTI Essentia,2010,233000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1248,90,2500,1750,"13,7",172,"4,9","4 değişen, 6 boyalı"
+1811,850000,Ford,Focus,1.6 Ti-VCT Trend X,2017,170000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,159,1596,125,6000,4000,"10,9",192,"5,9",1 değişen
+1812,1800000,Mercedes - Benz,CLA,200 AMG,2016,47200,Otomatik,Benzin,Coupe,-,Sahibinden,Önden Çekiş,4,250,1595,156,5300,4000,"7,9",230,"5,5",Tamamı orjinal
+1813,255000,Peugeot,106,XR,1999,186000,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,111,1360,76,,,,,,"4 değişen, 7 boyalı"
+1814,255000,Fiat,Palio,1.4 EL Weekend,2000,267000,Düz,LPG & Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,,1400,74,6000,3000,,,,2 değişen
+1815,235000,Fiat,Tempra,1.6 ie SLX,1997,167000,Düz,LPG & Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,124,1581,90,,,,,,Belirtilmemiş
+1816,335000,Volkswagen,Polo,1.4 Comfortline,2014,177000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,132,1390,85,5000,3800,"11,9",177,"5,9",Belirtilmemiş
+1817,1450000,Volkswagen,Golf,1.6 TDi BlueMotion Highline,2019,54000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Var,Galeriden,Önden Çekiş,4,250,1598,115,4000,1500,"10,5",198,"4,2",Tamamı orjinal
+1818,183000,Tofaş,Kartal,SLX,1996,124000,Düz,LPG & Benzin,Station wagon,,Sahibinden,Arkadan İtiş,4,131,1581,83,5800,3250,,168,,Belirtilmemiş
+1819,245000,Fiat,Palio,1.6 HL,1999,218000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,140,1581,100,5750,4000,"10,3",186,"8,3",Belirtilmemiş
+1820,215000,Renault,R 9,1.4 Broadway,1997,240000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,,1390,83,5750,3500,,168,,Tamamı orjinal
+1821,230000,Tofaş,Doğan,1.6 ie,2000,178300,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,131,1581,83,5800,3250,,,,"1 değişen, 2 boyalı"
+1822,220000,Renault,R 12,Toros,1994,150000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,,1397,72,5100,3000,,,,Tamamı boyalı
+1823,"481000 
+                                        
+
+
+                                11111",Renault,Clio,1.5 dCi Extreme,2008,200000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1461,65,4000,2000,"15,2",159,"4,9",1 boyalı
+1824,208000,Ford,Ka,1.3,1998,87000,Düz,Benzin,Hatchback/3,Garantisi Yok,Sahibinden,Önden Çekiş,4,99,1297,60,,,"15,4",155,"5,9",Belirtilmemiş
+1825,205000,Suzuki,Swift,1.3 GLX,1998,250000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,99,1298,69,,,13,165,"5,9",Tamamı boyalı
+1826,570000,Honda,City,1.4 ES,2010,205000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,127,1339,100,6000,4800,"14,7",177,"6,4",Belirtilmemiş
+1827,475000,Opel,Vectra,1.6 Comfort,2008,258000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,150,1598,105,,,"12,6",194,"6,9",Belirtilmemiş
+1828,349000,Fiat,Palio,1.2 EL,2004,160000,Düz,LPG & Benzin,Hatchback/3,Garantisi Yok,Galeriden,Önden Çekiş,4,104,1242,81,5000,4000,"13,2",166,"7,2","1 değişen, 3 boyalı"
+1829,1130000,Renault,Megane,1.5 dCi Icon,2017,65000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1461,110,4000,1750,"12,3",187,"3,7",Tamamı orjinal
+1830,540000,Fiat,Linea,1.3 Multijet Pop,2015,127000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",Belirtilmemiş
+1831,480000,Volkswagen,Golf,1.6 FSi Midline,2004,248500,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"10,8",192,"6,7",Belirtilmemiş
+1832,469000,Opel,Astra,1.3 CDTI Essentia,2005,220000,Düz,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,200,1248,90,4400,2500,"13,5",172,"4,8",4 boyalı
+1833,695000,Volkswagen,Passat,1.4 TSi Comfortline,2010,154500,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1390,122,5500,4000,"10,5",203,"6,6",3 boyalı
+1834,575000,Renault,Symbol,1.5 dCi Joy,2017,154000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,2",167,"3,9",2 boyalı
+1835,300000,Fiat,Linea,1.3 Multijet Active Plus,2014,630000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",Belirtilmemiş
+1836,349000,Toyota,Corolla,1.6 GLi,1996,359047,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,,,,,,,,,,"1 değişen, 3 boyalı"
+1837,325000,Ford,Fiesta,1.4 TDCi Comfort,2008,330000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1399,68,4000,2000,15,164,"4,3","3 değişen, 3 boyalı"
+1838,530000,Citroen,C5,1.6 HDi Dynamique,2009,300000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1560,111,4000,1750,"12,2",191,"5,6",Belirtilmemiş
+1839,700000000,Skoda,Rapid,1.4 TDI Style,2016,250000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,3,230,1422,90,3500,1750,"11,8",185,"3,8",1 değişen
+1840,299500,Renault,R 19,1.6 Europa iE,1998,125500,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,137,1598,90,,,,,,Tamamı boyalı
+1841,145000,Lada,Samara,1.5,1993,300000,Düz,LPG & Benzin,Hatchback/3,,Sahibinden,Önden Çekiş,4,110,1500,75,4800,2800,15,150,,Belirtilmemiş
+1842,375000,Opel,Corsa,1.4 100.Yıl,"Yıl
+2000",193500,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+1843,716900,Kia,Rio,1.4 CVVT Concept Plus,2016,114000,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,137,1396,109,6300,4200,"13,2",170,"6,3","1 değişen, 2 boyalı"
+1844,610000,Opel,Insignia,1.6 Edition,2009,209000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,155,1598,115,,,"12,9",192,"7,5",Belirtilmemiş
+1845,659500,Honda,Civic,1.6 i-DTEC Sport,2013,138000,Düz,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,300,1597,120,4000,2000,"10,5",207,"3,7",1 boyalı
+1846,1090000,Renault,Talisman,1.6 dCi Icon,2016,167000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,320,1598,130,4000,1750,"10,8",205,"4,2",1 boyalı
+1847,335000,Renault,Megane,1.4 RTA,2002,202000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,127,1390,95,,,"11,8",184,"6,6","2 değişen, 11 boyalı"
+1848,465000,Renault,Clio,1.2 Extreme,2008,173000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,105,1149,75,5500,4250,"13,4",167,"5,9",2 boyalı
+1849,125000,Renault,R 12,TS,1978,24000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,,1300,54,,,,,,Belirtilmemiş
+1850,205000,Hyundai,Accent,1.3 GLS,1998,235000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,130,1341,75,,,,,"7,4",2 değişen
+1851,235000,Renault,R 9,1.4 Broadway,1996,92546,Düz,LPG & Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,,1390,83,5750,3500,,168,,Belirtilmemiş
+1852,925000,Honda,Civic,1.6 i-VTEC ECO Elegance,2012,99700,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1595,125,6500,4200,"10,3",197,"6,7",Belirtilmemiş
+1853,460000,Fiat,Linea,1.3 Multijet Pop,2015,250000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",5 boyalı
+1854,745000,Renault,Clio,1.2 Joy,2018,55000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,107,1149,75,5500,4250,"14,5",167,"5,5",Tamamı orjinal
+1855,655000,Volkswagen,Polo,1.0 Trendline,2017,72500,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,95,999,75,6200,3000,"14,3",173,"5,1",Tamamı orjinal
+1856,435000,Renault,Megane,1.6 Dynamique,2005,265000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,152,1598,115,,,"11,1",193,"6,9",Belirtilmemiş
+1857,588000,Renault,Clio,1.5 dCi Icon,2012,190000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,,,"11,7",181,"3,6",4 boyalı
+1858,177500,Opel,Tigra,1.6,1995,147000,Düz,LPG & Benzin,Coupe,Garantisi Yok,Sahibinden,Önden Çekiş,4,148,1598,106,,,"9,8",203,"7,7","2 değişen, 11 boyalı"
+1859,820000,Volkswagen,Polo,1.2 TSi Lounge,2016,112000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1197,90,4800,1400,"10,8",184,"4,7",3 boyalı
+1860,730000,Hyundai,Accent Blue,1.6 CRDI Mode Plus,2016,141000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,,,,,,,,,,,6 boyalı
+1861,182000,Fiat,Uno,70 S,1999,280000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,90,1372,71,5750,3500,,,,Belirtilmemiş
+1862,755000,Toyota,Corolla,1.4 D-4D Comfort Extra,2012,148000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,205,1364,90,3800,1800,"14,8",175,"4,8",Belirtilmemiş
+1863,425000,Ford,Focus,1.6 Collection,2004,188000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,143,1596,100,5500,4000,"10,4",185,"6,8","1 değişen, 3 boyalı"
+1864,155000,Tofaş,Doğan,L,1990,134890,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,130,1581,83,5800,2900,"13,1",170,"6,5",Tamamı orjinal
+1865,265000,Fiat,Marea,1.6 SX,2000,277000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,145,1596,103,5500,4500,"10,7",187,"8,1",4 değişen
+1866,820000,Fiat,Egea,1.4 Fire Lounge,2021,22000,Düz,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,8",186,"6,4",Tamamı orjinal
+1867,615000,Citroen,C4,1.6 e-HDi Confort,2013,201700,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,270,1560,117,3600,1750,"11,2",190,"4,2","1 değişen, 1 boyalı"
+1868,1000000,BMW,6 Serisi,620d xDrive Gran Turismo Luxury Line,2023,10000,Otomatik,Dizel,Hatchback/5,,Sahibinden,4WD (Sürekli),4,400,1995,190,4000,1750,"7,9",220,"5,4",Belirtilmemiş
+1869,760000,Volkswagen,Jetta,1.6 TDi Trendline,2014,150000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,105,4400,2500,"11,7",190,"4,7",5 boyalı
+1870,375000,Fiat,Linea,1.3 Multijet Active Plus,2013,336000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",Belirtilmemiş
+1871,225000,Renault,R 19,1.6 Europa RT,1995,345000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,131,1598,90,5250,2500,"14,8",187,,12 boyalı
+1872,1050000,Skoda,SuperB,1.6 TDI Prestige,2014,190000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,105,4400,1500,"12,2",193,"4,6",Belirtilmemiş
+1873,355000,Skoda,Fabia,1.4 TDI Classic,2008,262000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,3,155,1422,70,,,"15,8",164,"4,7",4 boyalı
+1874,330000,Hyundai,Accent,1.5 CRDi Admire,2005,238000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,3,184,1493,82,4000,2000,"17,8",170,"5,5","2 değişen, 5 boyalı"
+1875,444444,Renault,Symbol,1.2 Authentique,2010,162000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,105,1149,75,5500,4250,13,167,"5,9",Belirtilmemiş
+1876,250000,Renault,R 12,Toros,1995,99500,Düz,LPG & Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,,1397,72,5100,3000,,,,Belirtilmemiş
+1877,427000,Fiat,Albea,Sole 1.4 Fire Premio,2011,164800,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,115,1368,77,6000,3000,"13,5",162,"6,2",3 boyalı
+1878,750000,Ford,Focus,1.6 TDCi Trend X,2014,196000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,95,3600,1500,"12,6",182,"4,5",2 boyalı
+1879,255000,Ford,Fiesta,1.4 TDCi Comfort,2006,484000,Düz,Dizel,Hatchback/3,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1399,68,,,"14,9",164,"4,3",Tamamı orjinal
+1880,805000,Skoda,Rapid,1.4 TDI Style,2015,116000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,3,230,1422,90,3500,1750,"11,8",185,"3,8","1 değişen, 1 boyalı"
+1881,425000,Skoda,Fabia,1.2 Classic,2008,169186,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,112,1198,64,,,"15,9",160,6,Belirtilmemiş
+1882,420000,Dacia,Lodgy,1.5 dCi Laureate,2015,290000,Düz,Dizel,Hatchback/5,,Sahibinden,,,,,,,,,,,"1 değişen, 12 boyalı"
+1883,310000,Nissan,Primera,1.6 GX,1997,257000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,136,1597,100,,,12,180,"7,2",2 değişen
+1884,510000,Hyundai,Getz,1.3 GLS,2004,135000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,117,1341,82,,,"11,5",166,"6,2",2 boyalı
+1885,655000,Renault,Clio,1.2 Joy,2015,56000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,105,1149,75,,,"15,4",164,"5,5",Tamamı orjinal
+1886,990000,Volkswagen,Jetta,1.4 TSi BlueMotion Comfortline,2015,105000,Düz,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,200,1395,125,5000,1400,"9,6",206,"5,3",1 boyalı
+1887,410000,Fiat,Albea,Sole 1.3 Multijet Premio,2009,304000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,180,1248,70,4000,1750,"14,5",160,"4,7",6 boyalı
+1888,608000,Toyota,Corolla,1.4 D-4D Elegant,2011,228000,Düz,Dizel,Sedan,-,Sahibinden,Önden Çekiş,4,205,1364,90,3800,1800,"11,9",175,"4,8",Belirtilmemiş
+1889,1069900,BMW,1 Serisi,116d Joy Plus,2016,127000,Otomatik,Dizel,Hatchback/5,Garantisi Yok,Yetkili Bayiden,Arkadan İtiş,3,270,1496,116,4000,1750,"10,3",200,"4,1","1 değişen, 2 boyalı"
+1890,120000,Tofaş,Şahin,1.6,1998,150000,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,122,1581,,5500,3250,,,,Belirtilmemiş
+1891,465000,Hyundai,Accent Era,1.5 CRDi Team,2010,159000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,235,1493,110,4000,1900,"11,5",176,"4,6",3 boyalı
+1892,127000,Lada,Samara,1.5,1991,80000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,110,1499,68,4800,2800,15,150,,Belirtilmemiş
+1893,525000,Fiat,Linea,1.3 Multijet Active Plus,2014,148300,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",Tamamı orjinal
+1894,285000,Tofaş,Doğan,S,1994,150000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Arkadan İtiş,4,130,1581,83,5800,2900,"13,1",170,"6,5","1 değişen, 12 boyalı"
+1895,607000,Skoda,SuperB,2.0 TDI Elegance,2009,207000,Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,350,1968,170,5000,2500,9,220,"6,1",Belirtilmemiş
+1896,700000,Dacia,Lodgy,1.5 dCi Stepway,2016,149000,Düz,Dizel,MPV,Garantisi Yok,Sahibinden,Önden Çekiş,4,240,1461,110,4000,1750,"11,6",175,"4,4",Tamamı orjinal
+1897,430000,Peugeot,301,1.6 HDi Access,2013,256000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3","3 değişen, 9 boyalı"
+1898,245000,Renault,R 9,1.4 Broadway RNi,1997,267000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,,1397,72,,,,175,,3 boyalı
+1899,910000,Toyota,Corolla,1.4 D-4D Touch,2016,130000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,205,1364,90,3800,1800,"12,5",180,"4,1",Belirtilmemiş
+1900,265000,Fiat,Brava,1.6 SX,2000,249000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,144,1581,103,5750,4250,"11,5",180,"7,8","3 değişen, 3 boyalı"
+1901,119000,Renault,R 9,1.4 GTL,1985,119000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,102,1397,60,,,15,153,,Belirtilmemiş
+1902,950000,Volkswagen,Golf,1.6 TDi BlueMotion Highline,2014,82000,Düz,Dizel,Hatchback/5,-,Sahibinden,Önden Çekiş,4,250,1598,105,3000,1500,"10,7",192,"3,8",Belirtilmemiş
+1903,515000,Opel,Corsa,1.4 Twinport Enjoy,2009,155000,Otomatik,Benzin,Hatchback/5,-,Sahibinden,Önden Çekiş,4,125,1364,90,,,"12,4",173,"6,2",2 boyalı
+1904,650000,Volkswagen,Passat,1.4 TSi Trendline,2009,333000,Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,200,1390,122,5500,4000,"10,5",203,"6,6","2 değişen, 1 boyalı"
+1905,750000,Ford,Focus,1.6 Ti-VCT Trend X,2014,90000,Düz,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,158,1596,125,6300,4000,"10,9",198,6,Belirtilmemiş
+1906,375000,Renault,Megane,1.4 Authentique,2005,268500,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,127,1390,98,,,"12,5",183,"6,7",2 değişen
+1907,510000,Opel,Corsa,1.3 CDTI Enjoy,2012,142500,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,190,1248,75,4000,1750,"14,9",163,4,3 boyalı
+1908,875000,Renault,Megane,1.5 dCi Touch Plus,2017,195000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1461,110,4000,1750,"12,5",190,"3,8",3 boyalı
+1909,500000,Renault,Clio,1.4 Authentique,2005,29000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,114,1390,75,5500,4250,"12,5",170,"7,1",Tamamı orjinal
+1910,347500,Dacia,Logan,1.6 Laureate,2006,229000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,128,1598,90,5750,3750,"11,5",175,"7,2","1 değişen, 1 boyalı"
+1911,920000,Volvo,S60,1.6 D Premium,2015,170000,Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,,,,126 - 150 HP,,,,,,1 boyalı
+1912,685000,Ford,Focus,1.6 Ti-VCT Comfort,2011,165000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1596,105,6000,4000,"12,3",189,"5,9",Belirtilmemiş
+1913,265000,Opel,Corsa,1.5 TD,2000,201000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,132,1488,67,,,14,165,"5,4","1 değişen, 1 boyalı"
+1914,483000,Fiat,Linea,1.6 Multijet Emotion Plus,2012,162500,Düz,Dizel,Sedan,-,Sahibinden,Önden Çekiş,4,290,1598,105,4000,1500,11,190,5,"1 değişen, 4 boyalı"
+1915,858500,Toyota,Corolla,1.4 D-4D Advance,2017,236700,Otomatik,Dizel,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+1916,1110000,Honda,Civic,1.6 i-VTEC Eco Executive,2017,86000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1597,125,6500,4300,"11,6",196,"6,7",Tamamı orjinal
+1917,675000,Fiat,Egea,1.3 Multijet Easy,2016,141000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"11,7",183,"4,1",Belirtilmemiş
+1918,599750,Fiat,Egea,1.3 Multijet Easy,2018,158000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"11,7",183,"4,1","1 değişen, 3 boyalı"
+1919,320000,Peugeot,206,1.4 HDi XT,2004,290000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,,,1401 - 1600 cm3,51 - 75 HP,,,,,,Belirtilmemiş
+1920,530000,Volkswagen,Passat,1.6 FSi Trendline,2006,250000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,4",200,"7,5",1 değişen
+1921,728000,Fiat,Egea,1.4 Fire Urban Plus,2020,32000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,5",185,"5,7",Tamamı orjinal
+1922,513000,Renault,Fluence,1.5 dCi Business,2010,260500,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,85,3750,1750,"13,4",175,"4,5","2 değişen, 1 boyalı"
+1923,250000,Volkswagen,Polo,1.6,2000,357000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,135,1598,75,,,"13,3",170,"7,1",Belirtilmemiş
+1924,1300000,BMW,3 Serisi,320i,2012,196000,Otomatik,Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,270,1997,184,5000,1250,"7,6",233,"5,9",Tamamı orjinal
+1925,765000,Volkswagen,Polo,1.4 Comfortline,2012,91000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,132,1390,85,5000,3800,"11,9",177,"5,9",Tamamı orjinal
+1926,650000,Volvo,S40,1.6 D Premium,2008,211000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1560,109,4000,1750,12,190,"4,9",Belirtilmemiş
+1927,510000,BMW,3 Serisi,320i,1995,254000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,6,190,1991,150,6000,4300,,,,Belirtilmemiş
+1928,550000,Renault,Symbol,1.5 dCi Touch,2014,168000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,220,1461,90,3750,1750,"12,2",167,"3,9",7 boyalı
+1929,760000,DS Automobiles,DS4,1.6 e-HDi D-Sport,2014,112000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,270,1560,117,3600,1750,"11,3",190,"4,4",3 değişen
+1930,220000,Renault,R 19,1.6 Europa RT,1995,345000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,131,1598,90,5250,2500,"14,8",187,,12 boyalı
+1931,400000,Skoda,Fabia,1.4 Sport,2005,194000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,126,1390,100,,,"11,5",185,"6,9",Tamamı boyalı
+1932,660000,Ford,Fiesta,1.4 TDCi Titanium X,2011,145000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1398,70,4000,1750,"14,9",162,"4,2",Belirtilmemiş
+1933,325000,Renault,Symbol,1.2 Authentique,2009,315000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,105,1149,75,5500,4250,13,167,"5,9","3 değişen, 5 boyalı"
+1934,365000,Ford,Focus,1.6 Ambiente,2000,242000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,143,1596,100,6000,4000,12,180,"7,8",Belirtilmemiş
+1935,460000,Renault,Symbol,1.5 dCi Joy,2015,184200,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,2",167,"3,9","3 değişen, 3 boyalı"
+1936,365000,Renault,Clio,1.6 RTE,2000,147000,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,131,1598,90,,,"12,9",175,"7,8",Belirtilmemiş
+1937,535000,Hyundai,Getz,1.4 DOHC HY KLM,2010,92000,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,,,1201 - 1400 cm3,76 - 100 HP,,,,,,"1 değişen, 5 boyalı"
+1938,740000,Dacia,Sandero,0.9 TCe Stepway Easy-R,2016,29900,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,3,140,898,90,5000,2250,"11,1",168,"5,1",3 boyalı
+1939,575000,Volkswagen,Jetta,1.2 TSi Trendline,2014,225000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,175,1197,105,5000,4100,"10,9",190,"5,7",Belirtilmemiş
+1940,585000,Opel,Astra,1.3 CDTI Enjoy Plus,2011,231000,Düz,Dizel,Hatchback/5,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+1941,740000,BMW,5 Serisi,520i Standart,2005,384000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,6,210,2171,170,6100,3500,"9,9",226,"9,8","2 değişen, 4 boyalı"
+1942,180000,Renault,R 9,1.4 Broadway RN,1998,132000,Düz,LPG & Benzin,Sedan,,Sahibinden,,,,,,,,,,,Tamamı boyalı
+1943,355000,Ford,Fiesta,1.4 TDCi Comfort,2005,220000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1399,68,4000,2000,15,164,"4,3","3 değişen, 1 boyalı"
+1944,585000,Renault,Symbol,1.5 dCi Joy,2016,175000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,2",167,"3,9",Belirtilmemiş
+1945,590000,Citroen,C-Elysee,1.6 HDi Exclusive,2013,120600,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,1",Tamamı orjinal
+1946,410000,Renault,Megane,1.5 dCi Privilege,2008,305000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,100,4000,2000,"12,7",182,"4,9",Belirtilmemiş
+1947,490000,Ford,Fiesta,1.25 My Fiesta,2012,196000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,114,1242,82,5800,4200,"13,3",168,"5,7",Belirtilmemiş
+1948,1034750,Seat,Leon,1.4 TSI FR,2017,78000,Düz,Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,200,1395,125,6000,1400,"9,1",203,"5,2",Belirtilmemiş
+1949,365000,Toyota,Corolla,1.6 GLi,1997,283000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,145,1587,105,,,10,195,,"2 değişen, 8 boyalı"
+1950,280000,BMW,5 Serisi,525tds Standart,1995,115000,Otomatik,Dizel,Sedan,,Sahibinden,Arkadan İtiş,6,280,2498,143,,,11,205,"8,2",Tamamı boyalı
+1951,830000,Volkswagen,Polo,1.0 TSi Highline,2018,74000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,3,175,999,95,5500,2000,"10,8",187,"4,6",1 boyalı
+1952,1110000,Opel,Astra,1.6 CDTI OPC Line Sport,2017,110000,Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,320,1598,136,3500,2000,"9,7",205,"4,6",Tamamı orjinal
+1953,270000,Fiat,Punto,Grande 1.4 Fire Active,2006,146000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,115,1368,77,6000,3000,"13,2",165,"5,9",Tamamı boyalı
+1954,735000,Volkswagen,Golf,1.2 TSi Midline Plus,2014,104555,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,175,1197,105,5000,1550,"10,2",192,"4,9",3 değişen
+1955,170000,Renault,R 9,1.4 Spring,1995,335005,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,,1390,72,5750,5250,,160,,2 boyalı
+1956,105000,Tofaş,Şahin,Şahin 5 Vites,1988,999999,Düz,LPG & Benzin,Sedan,Garantisi Var,Sahibinden,Arkadan İtiş,4,122,1581,80,5500,3250,,,,Belirtilmemiş
+1957,800000,Volkswagen,Polo,1.4 TDi Comfortline,2017,146000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,3,230,1422,90,3500,1500,"10,9",184,"3,5",Belirtilmemiş
+1958,182500,Mitsubishi,Carisma,1.6 GL,2000,242000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,137,1597,90,,,12,180,"7,3",Tamamı boyalı
+1959,1030000,Ford,Focus,1.5 Ti-VCT Trend X,2020,23800,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,150,1497,123,,,"11,2",196,"5,8",Belirtilmemiş
+1960,549000,Opel,Astra,1.6 Elegance,2006,197000,Yarı Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1598,105,6000,3900,"13,3",185,"6,5",6 boyalı
+1961,625000,Renault,Fluence,1.5 dCi Joy,2014,170000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4",1 değişen
+1962,822000,Renault,Clio,1.0 SCe Joy,2023,6100,Düz,Benzin,Hatchback/5,Garantisi Var,Sahibinden,Önden Çekiş,3,95,999,65,6250,3600,"17,1",160,"4,9",Tamamı orjinal
+1963,684000,Hyundai,i20,1.2 MPI Style,2016,106000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,121,1248,84,6000,4000,"12,7",170,"5,1",Tamamı orjinal
+1964,660000,Ford,Focus,1.6 TDCi Trend X,2013,252500,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,95,3600,2000,"12,5",180,"4,2","1 değişen, 6 boyalı"
+1965,230000,Renault,R 12,Toros,1998,72000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,,1397,72,5100,3000,,,,2 boyalı
+1966,405000,Rover,75,2.0 Club,2000,290000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,6,185,1991,150,,,"11,6",205,"11,1",Tamamı orjinal
+1967,425000,Opel,Meriva,1.6 Enjoy,2004,246000,Düz,LPG & Benzin,MPV,,Sahibinden,Önden Çekiş,4,138,1598,87,,,"14,5",170,"7,8",Belirtilmemiş
+1968,860000,Skoda,Octavia,1.6 TDI Optimal,2015,206000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1598,105,3000,1500,"10,8",194,"3,8",Belirtilmemiş
+1969,500000,Hyundai,Accent Era,1.5 CRDi Team,2011,315000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,235,1493,110,4000,1900,"11,5",176,"4,6",2 boyalı
+1970,175000,Nissan,100 NX,NX,1991,390000,Düz,LPG & Benzin,Coupe,,Sahibinden,Önden Çekiş,4,133,1597,90,,,"10,7",183,,Belirtilmemiş
+1971,975000,Audi,A4,A4 Sedan 2.0 TDI,2007,155000,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,320,1968,140,4200,1750,"9,8",206,"5,8",Belirtilmemiş
+1972,600000,Renault,Symbol,1.5 dCi Joy,2018,160000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,2",167,"3,9",3 boyalı
+1973,750000,Toyota,Auris,1.4 D-4D Advance,2013,132717,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,205,1364,90,3800,1800,"14,7",180,"4,2",Belirtilmemiş
+1974,630000,Renault,Fluence,1.5 dCi Joy,2013,127460,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,90,4000,1750,13,180,"4,5",Tamamı orjinal
+1975,1300000,BMW,5 Serisi,520d Premium,2011,254000,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,380,1995,184,4000,2750,"8,1",225,"5,2",4 boyalı
+1976,493000,Renault,Clio,0.9 TCe Icon,2013,143000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,135,898,90,,,"12,2",182,"4,5",3 boyalı
+1977,440000,Opel,Zafira,2.2 DTi Elegance,2004,275000,Düz,Dizel,MPV,,Sahibinden,Önden Çekiş,4,280,2171,125,4000,1500,"11,5",187,"6,5",Belirtilmemiş
+1978,125000,Skoda,Forman,GLX,1994,460000,Düz,LPG & Benzin,Station wagon,Garantisi Yok,Sahibinden,Önden Çekiş,4,,1289,57,,,,,,Tamamı orjinal
+1979,775000,Fiat,Egea,1.6 Multijet Easy,2020,100000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,320,1598,120,3750,1750,"9,8",200,"3,9","1 değişen, 3 boyalı"
+1980,969500,Renault,Megane,1.5 dCi Icon,2018,164950,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1461,110,4000,1750,"12,5",190,"3,8",Belirtilmemiş
+1981,420000,Hyundai,Getz,1.4 DOHC AB AC,2008,231000,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,125,1399,97,6000,3200,"13,9",167,"6,7",6 boyalı
+1982,1050000,Opel,Corsa,1.2 Turbo Dynamic,2021,6000,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+1983,375000,Renault,Clio,1.4 Alize,2007,195000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,127,1390,98,6000,3750,"11,2",186,"7,3",Tamamı orjinal
+1984,485000,Renault,Symbol,1.5 dCi Joy,2014,293000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,75,4000,1750,"14,6",164,"3,9","2 değişen, 2 boyalı"
+1985,1620000,BMW,3 Serisi,320i ED M Plus,2014,109000,Otomatik,Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,250,1598,170,4800,1500,"7,6",230,"5,3",2 değişen
+1986,250000,Renault,Clio,1.4 RN,2000,245000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,114,1390,75,5500,4250,"12,1",170,"7,1",Belirtilmemiş
+1987,500000,Fiat,Linea,1.3 Multijet Easy,2014,235000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",Belirtilmemiş
+1988,340000,Ford,Fiesta,1.4 TDCi Comfort,2004,252000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1399,68,4000,2000,"14,9",164,"4,3","4 değişen, 9 boyalı"
+1989,819999,BMW,3 Serisi,320d Premium,2010,311000,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,350,1995,177,,,"8,3",225,"4,8",Belirtilmemiş
+1990,770000,Fiat,Egea,1.4 Fire Urban,2023,6008,Düz,Benzin,Sedan,Garantisi Var,Sahibinden,,,,,,,,,,,Tamamı orjinal
+1991,645000,Volkswagen,Polo,1.4 Chrome Edition,2013,112500,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,132,1390,85,5000,3800,"11,9",177,"5,9",Belirtilmemiş
+1992,450000,Peugeot,207,1.4 Sportium,2011,215000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,120,1360,91,5250,3250,"13,9",170,"6,3","1 değişen, 1 boyalı"
+1993,460000,Dacia,Lodgy,1.5 dCi Laureate,2014,262000,Düz,Dizel,MPV,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,1750,"11,6",175,"4,4","2 değişen, 9 boyalı"
+1994,1710000,Mercedes - Benz,C,C 200 d BlueTEC AMG,2016,148500,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,320,1598,136,3800,2600,"9,7",218,"4,2",Belirtilmemiş
+1995,380000,Volkswagen,Passat,1.8 Basic,1999,366000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,173,1781,125,,,"12,7",201,9,7 boyalı
+1996,618000,Peugeot,301,1.2 PureTech Active,2019,87000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,3,117,1199,83,5500,2750,"12,9",169,"4,9",Tamamı orjinal
+1997,795000,Hyundai,i20,1.2 MPI Style,2015,41000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,121,1248,84,6000,4000,"12,7",170,"5,1",Belirtilmemiş
+1998,375000,Fiat,Linea,1.3 Multijet Active Plus,2013,336000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9","2 değişen, 3 boyalı"
+1999,675000,Renault,Clio,1.5 dCi Icon,2015,217000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,220,1461,90,,,"11,7",181,"3,6",4 değişen
+2000,535000,Seat,Ibiza,1.4 Style,2013,158000,Düz,LPG & Benzin,Hatchback/5,Garantisi Var,Sahibinden,Önden Çekiş,4,132,1390,85,5000,3800,"11,8",177,"5,9",2 boyalı
+2001,415000,Renault,Megane,1.5 dCi Authentique,2010,314000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,105,4000,2000,"12,7",182,"4,9",Tamamı orjinal
+2002,550000,Seat,Leon,1.6 Sport,2009,249000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,148,1595,102,5600,3800,"11,7",184,"7,6",3 boyalı
+2003,765000,Opel,Astra,1.6 Edition,2016,89000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,9",193,"6,5",Belirtilmemiş
+2004,420000,MINI,Cooper,1.6,2003,238000,Düz,Benzin,Hatchback/3,Garantisi Yok,Sahibinden,Önden Çekiş,4,149,1598,115,,,"9,2",200,"6,7","1 değişen, 7 boyalı"
+2005,470000,Volkswagen,Bora,1.6 Pacific,2005,215000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,148,1595,105,,,"11,3",192,"6,9",1 boyalı
+2006,415000,Renault,Symbol,1.5 dCi Joy,2013,178000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,75,4000,1750,"14,6",164,"3,9",Belirtilmemiş
+2007,365000,Renault,Symbol,1.5 dCi Expression,2012,200000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,85,3750,1750,"12,3",177,"4,3",Belirtilmemiş
+2008,289000,Opel,Corsa,1.2 Swing,1999,214000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,110,1199,65,,,14,163,"6,5",3 boyalı
+2009,360000,Ford,Fiesta,1.4 TDCi Comfort,2006,244000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1399,68,4000,2000,"14,9",164,"4,3","1 değişen, 4 boyalı"
+2010,1314750,Mercedes - Benz,A,A 180 d AMG,2016,116000,Otomatik,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,,,1401 - 1600 cm3,101 - 125 HP,,,,,,Belirtilmemiş
+2011,235000,Dacia,Solenza,1.4 Rapsodie,2005,198000,Düz,LPG & Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,114,1390,75,5500,3000,14,,"6,7",1 değişen
+2012,245000,Hyundai,Accent,1.3 LX,2000,303000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,114,1341,86,5500,,"12,5",169,"6,1",Belirtilmemiş
+2013,189000,Renault,R 12,Toros,1993,222222,Düz,LPG & Benzin,Station wagon,Garantisi Yok,Sahibinden,Önden Çekiş,4,,1397,72,5100,3000,,,,Belirtilmemiş
+2014,930000,Toyota,Corolla,1.6 Advance,2014,64250,Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,160,1598,132,6400,4400,"11,1",190,"6,1",Tamamı orjinal
+2015,2199000,Audi,A5,A5 Sportback 1.4 TFSI,2017,85000,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1395,150,6000,1500,"8,8",210,"5,5",Tamamı orjinal
+2016,143000,Tofaş,Şahin,1.6,1991,188000,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,122,1581,,5500,3250,,,,Belirtilmemiş
+2017,610000,Ford,Fiesta,1.4 Titanium X,2010,173000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,128,1388,96,5750,4200,"13,9",166,"6,5",Tamamı orjinal
+2018,1325000,Volkswagen,Passat,1.5 TSi Business,2019,47500,Yarı Otomatik,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1498,150,5000,1500,"8,6",213,"5,3",4 boyalı
+2019,675000,Toyota,Corolla,1.4 D-4D Comfort,2010,99700,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,205,1364,90,3800,1800,"11,9",175,"4,7",1 boyalı
+2020,760000,Renault,Clio,1.5 dCi Icon,2015,105000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,9",176,"3,7",Belirtilmemiş
+2021,507000,Opel,Corsa,1.2 Twinport Essentia,2012,212000,Düz,Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,115,1229,85,5600,4000,"13,6",172,"5,3",Belirtilmemiş
+2022,443000,Volkswagen,Bora,1.6 Primeline,2003,235000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,148,1595,105,,,"11,3",192,"6,9","2 değişen, 7 boyalı"
+2023,608000,BMW,3 Serisi,318i Standart,2005,280000,Otomatik,Benzin,Sedan,Garantisi Yok,Galeriden,Arkadan İtiş,4,200,1995,143,6000,3750,"10,2",214,"8,1",12 boyalı
+2024,330000,Renault,Clio,1.5 dCi Authentique,2003,277600,Düz,Dizel,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2025,1100000,Toyota,Corolla,1.6 Vision,2020,35000,Yarı Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,159,1598,132,6400,4400,"10,2",190,"5,5",Tamamı orjinal
+2026,185000,Opel,Rekord,1.7,1975,91000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Arkadan İtiş,4,118,1698,66,5300,2000,,143,,Belirtilmemiş
+2027,600000,Volkswagen,Polo,1.0 Trendline,2015,166000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,3,95,999,75,6200,3000,"14,3",173,"5,1",1 değişen
+2028,265000,Fiat,Siena,1.2 EL,2001,111000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,104,1242,74,6000,3000,,166,,3 boyalı
+2029,525000,Hyundai,Accent Era,1.5 CRDi-VGT Team,2009,169000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,235,1493,110,4000,1900,"11,5",176,"4,6",Belirtilmemiş
+2030,460000,Citroen,C4,1.6 SX,2008,173250,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,147,1587,111,5800,4000,"10,6",194,"7,1",Belirtilmemiş
+2031,325000,Peugeot,307,1.4 HDi XR,2004,360000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1398,69,,,"17,1",160,"4,5","1 değişen, 1 boyalı"
+2032,410000,Volkswagen,Polo,1.4 TDi Goal,2008,206000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,3,155,1422,70,,,"14,6",164,"4,7","1 değişen, 4 boyalı"
+2033,895000,Seat,Leon,1.6 TDI Style,2016,127000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1598,110,3250,1500,"10,5",194,"3,8",1 boyalı
+2034,870000,Ford,Focus,1.6 TDCi Trend X,2017,151000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,95,3600,1500,"12,6",182,"4,5",Belirtilmemiş
+2035,352500,Opel,Astra,1.4 GL,2002,286600,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,125,1388,90,,,"12,5",180,"6,4",Tamamı orjinal
+2036,325000,Nissan,Almera,1.5 Tekna,2005,223000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,136,1498,98,6000,4000,"13,1",177,"6,6",4 değişen
+2037,610000,Hyundai,i30,1.4 CVVT Team,2011,128000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,140,1396,109,6200,5000,"12,6",187,"6,1",Belirtilmemiş
+2038,664000,Kia,Ceed,1.6 CRDi Concept,2012,199000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,260,1582,128,4000,2750,"11,7",197,"4,3",2 boyalı
+2039,732000,Honda,Civic,1.6 i-VTEC Eco Premium,2012,105000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,152,1595,125,6500,4200,"10,3",192,"6,7","3 değişen, 4 boyalı"
+2040,455000,Renault,Clio,1.2 Night & Day,2012,151700,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,105,1149,75,5500,4250,"13,4",167,"5,9",3 boyalı
+2041,550000,Seat,Leon,1.6 Stylance,2008,239000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,148,1595,102,5600,3800,"11,7",184,"7,6","1 değişen, 4 boyalı"
+2042,850000,Toyota,Corolla,1.33 Life,2016,123000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,128,1329,99,6000,3800,"12,6",180,"5,8",Belirtilmemiş
+2043,245000,Renault,R 9,1.4 Broadway RN,1998,320000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,,1390,83,5750,3500,,168,,Belirtilmemiş
+2044,1150000,Toyota,Corolla,1.5 Vision,2023,6750,Otomatik,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,3,153,1490,125,6600,4800,"11,5",190,"6,3",Tamamı orjinal
+2045,465000,Ford,Focus,1.6 TDCi Titanium,2009,265000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,240,1560,110,4000,1750,"11,1",190,"4,5","2 değişen, 2 boyalı"
+2046,670000,Mercedes - Benz,E,220 CDI Elegance,2000,290000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Arkadan İtiş,4,315,2148,143,,,11,215,"6,2",Belirtilmemiş
+2047,365000,Opel,Vectra,1.6 Comfort,2001,318000,Düz,LPG & Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,150,1598,100,,,"12,5",193,"7,2","2 değişen, 9 boyalı"
+2048,595000,Renault,Fluence,1.5 dCi Business,2012,251000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,90,4000,1750,13,180,"4,4",Belirtilmemiş
+2049,2200000,BMW,3 Serisi,320i First Edition Sport Line,2019,46000,Otomatik,Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,250,1597,170,5000,2000,"7,7",232,6,2 değişen
+2050,635000,Honda,Civic,1.6 i-VTEC Premium,2009,180000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1595,125,6500,4200,"10,3",197,"6,7",4 boyalı
+2051,920000,Ford,Focus,1.5 TDCi Trend X,2018,112000,Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,300,1500,120,,,"10,2",196,"4,3",Belirtilmemiş
+2052,950000,Volkswagen,Golf,1.6 TDi BlueMotion Highline,2014,82000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1598,105,3000,1500,"10,7",192,"3,8",4 boyalı
+2053,755000,Renault,Fluence,1.5 dCi Dynamique,2012,58000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,90,4000,1750,13,180,"4,4",1 boyalı
+2054,470000,Volkswagen,Bora,1.6 Comfortline,2004,236500,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,148,1595,105,,,"11,3",192,"6,9",Belirtilmemiş
+2055,655000,Renault,Fluence,1.5 dCi Privilege,2012,121000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4","1 değişen, 7 boyalı"
+2056,305000,Citroen,C3,1.4 HDi SX,2005,337000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1398,71,4000,2000,"15,4",165,"4,2",Belirtilmemiş
+2057,755000,Volkswagen,Jetta,1.6 TDi Trendline,2012,156000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1598,105,4400,2500,"11,7",190,"4,7",3 boyalı
+2058,610000,Volkswagen,Passat,2.0 TDi Comfortline,2005,305000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,320,1968,140,4000,2500,"9,8",209,"5,8",6 boyalı
+2059,785000,Opel,Corsa,1.4 Essentia,2017,85000,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,130,1398,90,6000,4000,"13,9",170,6,Belirtilmemiş
+2060,520000,Seat,Ibiza,1.4 Copa,2012,227000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,,,,,,,,,,Tamamı orjinal
+2061,810000,Opel,Astra,1.4 T Cosmo,2012,66500,Otomatik,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1364,140,4900,1850,"10,3",205,"6,7",1 boyalı
+2062,1059950,Volkswagen,VW CC,1.4 TSi,2014,163000,Yarı Otomatik,Benzin,Coupe,Garantisi Var,Galeriden,Önden Çekiş,4,240,1390,160,5500,2000,"8,5",222,"6,1",1 boyalı
+2063,685950,Peugeot,301,1.6 BlueHDI Active,2018,66000,Düz,Dizel,Sedan,Garantisi Var,Galeriden,Önden Çekiş,4,254,1560,102,3750,1750,"10,8",183,"3,9",Tamamı orjinal
+2064,975950,Renault,Megane,1.5 dCi Touch,2018,65000,Yarı Otomatik,Dizel,Sedan,Garantisi Var,Galeriden,Önden Çekiş,4,250,1461,110,4000,1750,"12,5",190,"3,8",2 boyalı
+2065,693000,Renault,Clio,0.9 TCe Joy,2019,25500,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,140,898,90,5000,2500,"12,9",178,5,Tamamı orjinal
+2066,249900,Renault,Clio,1.5 dCi Alize,2006,500000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,160,1461,65,4000,2000,15,163,5,Belirtilmemiş
+2067,915000,Volkswagen,Jetta,1.6 TDi Highline,2012,192000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1598,105,4400,2500,"11,7",190,"4,5",2 değişen
+2068,500000,Honda,Civic,1.6 i-VTEC LS,2004,260000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,152,1590,110,6300,4800,"11,3",192,7,12 boyalı
+2069,670000,Toyota,Corolla,1.33 Comfort,2011,210000,Düz,Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,128,1329,99,6000,3800,"13,1",180,"5,9",1 değişen
+2070,419000,Renault,Megane,1.4 Authentique,2009,285000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,127,1390,98,6000,3750,"12,5",183,"6,7",4 boyalı
+2071,955000,Volkswagen,Golf,1.2 TSi Midline Plus,2015,92000,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,175,1197,105,5000,1550,"10,2",192,"4,8",2 boyalı
+2072,1020000,Honda,Civic,1.6 i-VTEC Elegance,2016,123000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1597,125,6500,4300,"11,6",196,"6,7",Tamamı orjinal
+2073,890000,Volkswagen,Golf,1.6 TDi BlueMotion Comfortline,2014,190000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1598,105,3000,1500,"10,7",192,"3,9",Belirtilmemiş
+2074,780000,Dacia,Sandero,1.5 dCi Stepway,2017,56000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"11,8",167,4,Belirtilmemiş
+2075,655000,Fiat,Egea,1.3 Multijet Easy,2019,168500,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"11,7",183,"4,1","1 değişen, 3 boyalı"
+2076,135000,Toyota,Corona,2.0 GLi,1994,460000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,196,1998,136,5500,3600,"9,7",205,,Belirtilmemiş
+2077,770000,Renault,Megane,1.5 dCi Sport Tourer GT-Line,2013,248000,Yarı Otomatik,Dizel,Station wagon,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,1750,"12,1",190,"4,2",Belirtilmemiş
+2078,384000,Fiat,Punto,Grande 1.3 Multijet Active,2007,235000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,190,1248,75,4000,1750,"13,6",165,"4,5","1 değişen, 1 boyalı"
+2079,560000,Renault,Fluence,1.6 Dynamique,2011,213000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,151,1598,110,6000,4250,"11,7",183,"6,5",Belirtilmemiş
+2080,725000,Ford,Focus,1.6 Ti-VCT Trend,2012,151500,Yarı Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,158,1596,125,6300,4000,"11,1",196,6,Tamamı orjinal
+2081,575000,Peugeot,308,1.6 VTi Comfort Pack,2008,85000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1598,122,,,"10,8",195,"6,7",3 boyalı
+2082,350000,Opel,Vectra,1.6 Comfort,2001,266000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,150,1598,100,,,"12,5",193,"7,2",8 boyalı
+2083,560000,Renault,Megane,1.6 Expression,2012,132000,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,151,1598,110,6000,4250,"13,9",180,"7,7","1 değişen, 5 boyalı"
+2084,1240000,Toyota,Corolla,1.5 Dream,2022,9000,Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,3,153,1490,125,6600,4800,"12,1",190,"5,8",Belirtilmemiş
+2085,639000,Opel,Astra,1.6 Essentia Konfor,2013,135000,Yarı Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"12,7",192,"6,3",Belirtilmemiş
+2086,365000,Toyota,Corolla,1.6 GLi,1998,258000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,145,1587,105,,,10,195,,Tamamı orjinal
+2087,232000,Fiat,Uno,70 S,1998,127000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,90,1372,71,5750,3500,,,,1 değişen
+2088,538000,Nissan,Note,1.5 dCi Tekna Pack,2013,222000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,240,1461,103,3750,1900,"11,1",180,"5,1",Belirtilmemiş
+2089,370000,Renault,Clio,1.4 RXT,2002,202500,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,127,1390,98,6000,3750,"11,5",183,"6,7",Tamamı boyalı
+2090,799950,Peugeot,308,1.6 BlueHdi Active,2016,128000,Otomatik,Dizel,Hatchback/5,Garantisi Var,Galeriden,Önden Çekiş,4,300,1560,122,3500,1750,"9,5",196,"3,5",2 boyalı
+2091,424000,Citroen,C-Elysee,1.6 HDi Confort,2013,295000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3",Belirtilmemiş
+2092,960000,Renault,Megane,1.3 TCe Joy,2019,51000,Düz,Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,240,1332,140,5000,1600,"9,7",205,"5,5",Tamamı orjinal
+2093,260000,Renault,R 19,1.6 Europa iE,1998,300,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,137,1598,90,,,,,,Belirtilmemiş
+2094,812000,Hyundai,i30,1.6 CRDi Elite,2013,96000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,260,1582,128,4000,1900,"10,9",197,4,"1 değişen, 1 boyalı"
+2095,960000,Volkswagen,Golf,1.4 TSi Comfortline,2014,93000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1395,122,5000,1500,"9,3",203,5,Belirtilmemiş
+2096,825000,Volkswagen,Jetta,1.6 TDi Trendline,2015,196000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,105,4400,2500,"11,7",190,"4,5",Tamamı orjinal
+2097,715000,Fiat,Egea,1.4 Fire Urban Plus,2020,51000,Düz,Benzin,Hatchback/5,Garantisi Var,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"12,1",185,"5,7",Belirtilmemiş
+2098,575000,Ford,Focus,1.6 Trend,2006,195000,Düz,LPG & Benzin,Hatchback/3,Garantisi Yok,Sahibinden,Önden Çekiş,4,143,1596,100,6000,4000,"10,3",185,"6,8",Belirtilmemiş
+2099,660000,Hyundai,i10,1.0 D-CVVT Style,2015,13500,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,95,998,65,5500,3500,"16,8",145,"5,8",1 değişen
+2100,520000,Ford,Fiesta,1.4 TDCi Trend,2011,198000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1398,70,4000,1750,"14,9",162,"4,2","1 değişen, 1 boyalı"
+2101,290000,Volkswagen,Golf,1.6 Comfortline,2001,317000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,148,1595,105,,,"10,5",192,"6,8","2 değişen, 11 boyalı"
+2102,645000,Peugeot,308,1.6 e-HDi Access,2012,179000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,270,1560,114,3600,1750,"11,4",190,4,Tamamı orjinal
+2103,470000,Ford,Focus,1.6 TDCi Trend X,2013,229000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,230,1560,95,3600,2000,"12,5",180,"4,2",Belirtilmemiş
+2104,90000,Tofaş,Şahin,1.6,1984,999999,Düz,LPG & Benzin,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2105,630000,Ford,Focus,1.6 Comfort,2010,153000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,150,1596,100,6000,4000,"14,2",182,"6,7",3 boyalı
+2106,305000,Renault,Clio,1.5 dCi Authentique,2004,272000,Düz,Dizel,Hatchback/3,,Sahibinden,Önden Çekiş,4,160,1461,65,3750,2000,15,162,"4,3",Tamamı boyalı
+2107,585000,Hyundai,i20,1.2 D-CVVT Jump,2013,135000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,121,1248,85,6000,4000,"12,7",168,"4,9",Tamamı orjinal
+2108,850000,Ford,Focus,1.6 TDCi Trend X,2016,84000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,95,3600,1500,"12,6",182,"4,5",Tamamı orjinal
+2109,585000,Hyundai,Accent Era,1.5 CRDi Mode,2012,173000,Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1493,110,4000,1900,"12,7",182,"5,9",Belirtilmemiş
+2110,535000,Citroen,C-Elysee,1.6 HDi Live,2017,168352,Düz,Dizel,Sedan,,Sahibinden,,,,,,,,,,,"2 değişen, 4 boyalı"
+2111,540000,Dacia,Sandero,1.5 dCi Stepway,2014,198000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,180,1461,90,3750,1750,13,167,5,"1 değişen, 2 boyalı"
+2112,385000,Toyota,Corolla,1.6 Linea Sol,2002,278000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,150,1598,110,,,"10,2",190,7,"2 değişen, 3 boyalı"
+2113,148000,Suzuki,Swift,1.0 GL,1990,163000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,,,1200 cm3' e kadar,50 HP'ye kadar,,,,,,Belirtilmemiş
+2114,130000,Lada,Samara,1.5,1993,60000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,110,1499,68,4800,2800,15,150,,Belirtilmemiş
+2115,830000,BMW,3 Serisi,316i Standart,2010,400000,Otomatik,Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,150,1596,116,6000,4300,"13,4",203,"7,9","3 değişen, 1 boyalı"
+2116,450000,Opel,Astra,1.6 100.Yıl,"Yıl
+2001",288000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,150,1598,100,,,"11,5",188,"7,1","3 değişen, 7 boyalı"
+2117,689000,Fiat,Egea,1.3 Multijet Easy,2017,65000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"11,7",183,"4,1",Tamamı orjinal
+2118,885000,Hyundai,i20,1.4 MPI Style,2022,6001,Otomatik,Benzin,Hatchback/5,Garantisi Var,Sahibinden,Önden Çekiş,4,134,1368,100,6000,1500,"12,2",176,"6,1",Tamamı orjinal
+2119,850000,BMW,3 Serisi,320d Standart,2010,302000,Otomatik,Dizel,Sedan,,Sahibinden,Arkadan İtiş,4,380,1995,184,4000,2750,"7,6",233,"5,3","2 değişen, 1 boyalı"
+2120,1580000,Volkswagen,Passat,1.6 TDi BlueMotion Impression,2019,84200,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,,,,101 - 125 HP,,,,,,Tamamı orjinal
+2121,218000,Tofaş,Doğan,SLX,1993,63000,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,125,1581,83,5800,3000,"13,2",170,,1 değişen
+2122,975000,Volkswagen,VW CC,1.8 TFSi,2010,146500,Yarı Otomatik,LPG & Benzin,Coupe,,Sahibinden,Önden Çekiş,4,250,1798,160,5000,4200,"8,6",222,"7,6","1 değişen, 2 boyalı"
+2123,1198000,Volkswagen,Passat,1.6 TDi BlueMotion Comfortline,2017,140000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,120,4000,1750,"10,8",206,4,"1 değişen, 4 boyalı"
+2124,445000,Renault,Symbol,1.5 dCi Authentique,2011,192000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,160,1461,65,3750,1900,"16,5",160,"4,5","1 değişen, 4 boyalı"
+2125,1950000,BMW,5 Serisi,520i Comfort,2017,160000,Otomatik,Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,250,1597,170,6000,2000,"8,3",226,"6,5",Belirtilmemiş
+2126,960000,Toyota,Corolla,1.4 D-4D Advance,2016,152000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,205,1364,90,3800,1800,"12,5",180,"4,1",Tamamı orjinal
+2127,195000,BMW,5 Serisi,525i Standart,1990,350500,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,6,250,2494,192,5800,4300,"8,6",230,,Belirtilmemiş
+2128,592000,Fiat,Linea,1.3 Multijet Urban,2013,19000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",Tamamı orjinal
+2129,105000,Volkswagen,Golf,1.6 GTD,1983,800000,Düz,Dizel,Hatchback/3,,Sahibinden,Önden Çekiş,4,,1588,70,,,,,,Belirtilmemiş
+2130,149000,Renault,R 12,Toros,1998,27000,Düz,LPG & Benzin,Station wagon,Garantisi Yok,Galeriden,Önden Çekiş,,,1401 - 1600 cm3,51 - 75 HP,,,,,,Belirtilmemiş
+2131,660000,Ford,Focus,1.6 TDCi Style,2012,270000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,270,1560,115,3600,2500,"10,9",193,"4,2",2 boyalı
+2132,1195000,Toyota,Corolla,1.8 Hybrid Passion X-Pack,2019,103500,Otomatik,Hibrit,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,142,1798,98,5200,3600,11,180,"3,5","2 değişen, 1 boyalı"
+2133,370000,Mercedes - Benz,200,D,1992,417000,Düz,Dizel,Sedan,Garantisi Var,Sahibinden,Arkadan İtiş,4,,1997,75,,,,,,Tamamı boyalı
+2134,625000,Toyota,Corolla,1.6 Terra Special VVT-i,2005,144000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1598,110,6000,4800,"10,2",190,7,Tamamı orjinal
+2135,450000,Fiat,Linea,1.3 Multijet Urban,2012,389000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",Tamamı orjinal
+2136,755000,Skoda,Octavia,1.4 TSI Elegance,2011,166000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1390,122,5000,1500,"9,7",202,"6,3",Tamamı orjinal
+2137,1250000,Audi,A3,A3 Sportback 35 TFSI Dynamic,2020,47300,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1498,150,6000,1500,"8,2",220,"4,9",3 değişen
+2138,515000,Fiat,Egea,1.3 Multijet Urban,2020,31000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"11,7",183,"4,1",3 değişen
+2139,455000,Seat,Cordoba,1.4 TDI Stylance,2008,214000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,3,195,1422,80,4000,2200,"13,2",177,"4,6",6 boyalı
+2140,600000,Toyota,Auris,1.6 Class,2007,220000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,,,,,,,,,,,"1 değişen, 2 boyalı"
+2141,760000,Volkswagen,Golf,1.4 TSi Highline,2011,155000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1390,122,,,"9,5",200,"5,9","2 değişen, 3 boyalı"
+2142,419000,Hyundai,i30,1.6 CRDi Style Plus,2008,430000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,255,1582,115,4000,1900,"11,6",188,"4,7",Belirtilmemiş
+2143,852000,Seat,Leon,1.2 TSI Style,2013,115000,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,175,1197,105,5500,4000,10,191,"4,8","1 değişen, 4 boyalı"
+2144,230000,Renault,R 19,1.4 Europa RNA,1998,300000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,100,1397,75,,,,,,1 değişen
+2145,785000,Toyota,Auris,1.33 Life,2016,87000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,128,1329,99,6000,3800,"12,6",175,"5,8",Belirtilmemiş
+2146,392500,Hyundai,Getz,1.5 CRDi VGT,2009,153000,Düz,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,235,1493,110,4000,1900,"11,1",180,"4,5",Belirtilmemiş
+2147,325000,Citroen,C4,1.6 HDi SX,2007,280000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,240,1560,111,4000,1750,"11,2",192,"4,8","4 değişen, 3 boyalı"
+2148,425000,Hyundai,Getz,1.4 DOHC Start,2011,273000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,125,1399,97,6000,3200,"11,2",170,6,Belirtilmemiş
+2149,360000,Renault,Laguna,2.0 Privilege,2003,276000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1998,140,5500,3750,"12,3",200,"8,4",11 boyalı
+2150,1177000,Renault,Megane,1.3 TCe Joy Comfort,2023,9000,Yarı Otomatik,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,240,1332,140,5000,1600,9,205,"5,3",Belirtilmemiş
+2151,160000,Tofaş,Şahin,S,1997,35200,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,122,1581,80,5500,3250,"13,2",165,"6,8",Belirtilmemiş
+2152,345000,Mercedes - Benz,200,D,1994,440000,Düz,Dizel,Sedan,,Sahibinden,Arkadan İtiş,4,,1997,75,,,,,,Belirtilmemiş
+2153,599990,Renault,Fluence,1.5 dCi Extreme,2012,290000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4",Belirtilmemiş
+2154,605000,Dacia,Sandero,1.5 dCi Stepway,2014,138500,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"11,8",167,4,1 değişen
+2155,425000,Dacia,Logan,1.4,2009,139000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,112,1390,75,5500,3000,13,162,"6,8",Belirtilmemiş
+2156,725000,Renault,Fluence,1.5 dCi Icon,2013,260000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4",3 boyalı
+2157,220000,Fiat,Uno,1.4 ie SX,1997,255000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,106,1372,71,5750,3500,,,,11 boyalı
+2158,410000,Volkswagen,Bora,1.6 Pacific,2004,196000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,148,1595,105,,,"11,3",192,"6,9","2 değişen, 4 boyalı"
+2159,490000,Citroen,C3,1.4 Attraction,2011,71000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,118,1360,76,5500,3250,"14,2",163,"6,3","2 değişen, 1 boyalı"
+2160,355000,Fiat,Brava,1.6 SX,2001,224000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,144,1581,103,5750,4250,"11,5",180,"7,8",Belirtilmemiş
+2161,810000,Volkswagen,Golf,1.6 TDi BlueMotion Midline Plus,2016,107500,Düz,Dizel,Hatchback/5,-,Sahibinden,Önden Çekiş,4,230,1598,90,4800,1400,"11,9",185,"3,8",1 boyalı
+2162,487000,Citroen,C-Elysee,1.6 HDi Confort,2013,212500,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3","2 değişen, 3 boyalı"
+2163,670000,Fiat,Egea,1.3 Multijet Easy,2021,64000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"12,8",184,"4,1","1 değişen, 10 boyalı"
+2164,175000,Hyundai,Elantra,1.6 GLS,1993,176000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,143,1597,114,,,,,,Belirtilmemiş
+2165,250000,Mazda,323,1.6 GLX,1997,389000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,132,1598,88,6000,4000,11,177,"8,5",Belirtilmemiş
+2166,325000,Fiat,Punto,1.4 Dynamic,2004,211000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,,,1401 - 1600 cm3,176 - 200 HP,,,,,,"2 değişen, 7 boyalı"
+2167,935000,Volkswagen,Polo,1.0 TSi Highline,2017,68350,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,3,175,999,95,5500,2000,"10,8",187,"4,6",Tamamı orjinal
+2168,456000,Volkswagen,Jetta,1.6 TDi Comfortline,2011,300000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1598,105,4400,2500,"11,7",190,"4,7",Belirtilmemiş
+2169,228500,Opel,Vectra,2.0 GLS,1996,470000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,188,1998,136,,,10,215,"8,7",Belirtilmemiş
+2170,625000,Fiat,Egea,1.4 Fire Easy,2020,110000,Düz,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,127,1368,95,6000,4500,"11,5",185,"5,7",Belirtilmemiş
+2171,285000,Seat,Cordoba,1.4 TDI Basic,2004,257000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,3,195,1422,75,,,"14,2",174,"4,5",Belirtilmemiş
+2172,241000,Honda,Civic,1.5 EX,1994,251000,Otomatik,LPG & Benzin,Hatchback/3,-,Sahibinden,Önden Çekiş,4,119,1493,90,5750,4500,"11,9",175,,Belirtilmemiş
+2173,990000,Volkswagen,Passat,1.6 TDi BlueMotion Comfortline,2013,140551,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,105,4400,2500,"12,2",193,"4,7",Belirtilmemiş
+2174,839500,Toyota,Corolla,1.4 D-4D Advance,2016,131514,Düz,Dizel,Sedan,Garantisi Var,Galeriden,Önden Çekiş,4,205,1364,90,3800,1800,"12,5",180,"4,1",Belirtilmemiş
+2175,430000,Ford,Focus,1.6 TDCi Trend,2006,267400,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,204,1560,90,6000,4000,"11,5",183,"4,8","1 değişen, 2 boyalı"
+2176,620000,Chevrolet,Cruze,1.6 LT Plus,2011,114700,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,154,1598,124,6200,4200,12,190,"6,6",Tamamı orjinal
+2177,547500,Opel,Astra,1.3 CDTI Sport,2012,262000,Düz,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,190,1248,95,4000,1750,"14,5",175,"4,1","1 değişen, 8 boyalı"
+2178,415000,Volkswagen,Bora,1.6 Primeline,2004,310000,Düz,LPG & Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,148,1595,105,,,"11,3",192,"6,9",Belirtilmemiş
+2179,725000,Honda,Civic,1.6 i-VTEC Elegance,2007,181000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,152,1595,125,6500,4200,"10,3",197,"6,7","1 değişen, 12 boyalı"
+2180,400000,Peugeot,206+,1.4 Comfort,2011,196000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,120,1360,76,4000,1750,"13,1",170,"6,3",2 boyalı
+2181,399000,Citroen,C3,1.4 SX,2006,226000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,118,1360,76,5400,3300,"14,2",168,"6,2",1 boyalı
+2182,495000,Renault,Clio,1.2 Grandtour Executive,2011,124000,Düz,Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,105,1149,75,5500,4250,"13,6",167,"5,9",Tamamı orjinal
+2183,292000,Toyota,Corolla,1.3 XL,1997,348000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,111,1332,88,,,"11,5",175,,Belirtilmemiş
+2184,900000,Volkswagen,Polo,1.0 TSi Comfortline,2018,33280,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,175,999,95,5500,2000,"10,8",187,"4,6",Belirtilmemiş
+2185,575000,Hyundai,Getz,1.4 DOHC Start,2010,118000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,125,1399,97,6000,3200,"13,9",167,"6,7","1 değişen, 1 boyalı"
+2186,390000,Renault,Clio,1.4 Alize,2006,250000,Düz,LPG & Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,127,1390,98,,,"11,2",186,7,Belirtilmemiş
+2187,1295000,Skoda,Octavia,1.6 TDI Style,2019,40000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1598,115,3250,1500,"10,2",202,"3,9",2 boyalı
+2188,840000,Volkswagen,Jetta,1.6 TDi Comfortline,2012,194000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,105,4400,2500,"11,7",190,"4,7",3 boyalı
+2189,145000,Toyota,Corona,2.0 XL,1991,252716,Düz,LPG & Benzin,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2190,652500,Fiat,Egea,1.4 Fire Urban Plus,2018,90000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"12,1",185,"5,7",Tamamı orjinal
+2191,624500,Volkswagen,Polo,1.4 Comfortline,2011,98000,Yarı Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,132,1390,85,5000,3800,"11,9",177,"5,8","2 değişen, 4 boyalı"
+2192,1439900,Volkswagen,Passat,1.6 TDi BlueMotion Business,2019,79000,Yarı Otomatik,Dizel,Station wagon,Garantisi Var,Galeriden,Önden Çekiş,4,250,1598,120,4000,1500,"11,5",199,"4,4","1 değişen, 1 boyalı"
+2193,785000,Hyundai,i20,1.4 MPI Elite,2015,132000,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,134,1368,100,6000,3500,"12,9",170,"6,4",4 boyalı
+2194,365000,Opel,Astra,1.6 Comfort,2004,278000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,150,1598,100,,,"11,5",188,"7,1",Tamamı orjinal
+2195,920000,Toyota,Corolla,1.4 D-4D Premium,2018,92000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,205,1364,90,3800,1800,"12,5",180,"4,1",3 değişen
+2196,769500,Volkswagen,Golf,1.4 TSi Comfortline,2009,150000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1390,122,5000,4000,"9,5",200,6,3 değişen
+2197,670000,Opel,Astra,1.3 CDTI Sport,2012,162200,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,190,1248,95,4000,1750,"14,6",180,"4,2",Belirtilmemiş
+2198,455000,Volkswagen,Golf,1.6 FSi Midline,2004,298000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"10,8",192,"6,7","2 değişen, 1 boyalı"
+2199,1155000,Volvo,S60,1.6 D Advance,2013,276,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,270,1560,115,3600,1750,"10,9",190,"4,3",1 boyalı
+2200,265500,Renault,Clio,1.4 RTA,2000,253500,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,114,1390,75,5500,4250,"12,1",170,"6,8","3 değişen, 10 boyalı"
+2201,705000,Volkswagen,Polo,1.2 TSi Lounge,2015,70000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1197,90,4800,1400,"10,8",184,"4,7","1 değişen, 3 boyalı"
+2202,1300000,Citroen,C4,1.2 PureTech Shine Bold,2022,9050,Otomatik,Benzin,Hatchback/5,Garantisi Var,Sahibinden,Önden Çekiş,3,230,1199,132,5500,1750,"10,2",200,5,Tamamı orjinal
+2203,525000,Lancia,Delta,1.6 MJet,2011,197000,Otomatik,Dizel,Hatchback/5,-,Sahibinden,Önden Çekiş,4,300,1598,120,5000,1750,"10,7",194,"4,7","1 değişen, 5 boyalı"
+2204,775000,Peugeot,208,1.6 BlueHDi Active,2017,68400,Yarı Otomatik,Dizel,Hatchback/5,-,Sahibinden,Önden Çekiş,4,254,1560,102,3750,1750,"10,7",187,"3,5",2 boyalı
+2205,2250000,BMW,3 Serisi,320i,2019,77200,Otomatik,Benzin,Sedan,,Sahibinden,,,,,,,,,,,Tamamı orjinal
+2206,890000,Mercedes - Benz,C,C 220 CDI Avantgarde,2008,207000,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,400,2148,170,4200,2000,"8,4",227,"6,9","1 değişen, 1 boyalı"
+2207,130000,Tofaş,Şahin,Şahin 5 Vites,1993,100000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,122,1581,80,5500,3250,,,,3 değişen
+2208,285000,Renault,R 19,1.6 Europa RNE,1999,258000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,131,1598,90,5250,2500,"14,8",187,,1 değişen
+2209,280000,Volkswagen,Passat,1.8,1997,470,Düz,LPG & Benzin,Sedan,,Sahibinden,4WD (Sürekli),4,,1781,125,,,,,,Belirtilmemiş
+2210,240000,Toyota,Corolla,1.3 XL,1993,320000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,,,,,,,,,,Belirtilmemiş
+2211,900000,Opel,Astra,1.6 Edition Plus,2016,36500,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,9",193,"6,5","1 değişen, 2 boyalı"
+2212,540000,Chevrolet,Cruze,1.6 LS,2011,165000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,154,1598,124,6300,3800,"12,7",185,"7,4",6 boyalı
+2213,601000,Opel,Astra,1.6 Essentia Konfor,2010,166000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,7",191,"6,5","2 değişen, 1 boyalı"
+2214,625000,Opel,Astra,1.3 CDTI Enjoy,2011,216000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,90,,,"15,1",174,5,1 boyalı
+2215,285000,Opel,Vectra,2.0 CD,1997,377000,Otomatik,LPG & Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,188,1998,136,,,"11,5",200,"9,7",Belirtilmemiş
+2216,999000,Renault,Megane,1.3 TCe Joy,2021,15000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,240,1332,140,5000,1600,"9,7",205,"5,7",Tamamı orjinal
+2217,716000,Seat,Leon,1.4 TSI FR,2012,159800,Düz,Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,200,1390,125,5000,4000,"9,8",197,"6,2",Belirtilmemiş
+2218,255000,Renault,Laguna,2.0 RXE,2001,252000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,,,1801 - 2000 cm3,101 - 125 HP,,,,,,Belirtilmemiş
+2219,830000,Citroen,C-Elysee,1.5 BlueHDi Feel Bold,2022,10600,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1499,100,3500,1750,"10,1",189,"3,9",Tamamı orjinal
+2220,278000,Lada,Vega,1.5,2004,24300,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,128,1499,77,5600,4800,"11,5",185,"7,4",Tamamı orjinal
+2221,1099900,Renault,Megane,1.5 Blue DCI Icon,2020,89000,Yarı Otomatik,Dizel,Sedan,Garantisi Var,Galeriden,Önden Çekiş,4,260,1461,115,3750,2000,"10,8",197,"4,2",Belirtilmemiş
+2222,797500,Renault,Fluence,1.5 dCi Touch,2016,116000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4",Tamamı orjinal
+2223,935000,Volkswagen,Golf,1.6 TDi BlueMotion Highline,2016,150000,Düz,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1598,110,3200,1500,"10,5",195,"3,8",3 boyalı
+2224,675000,Fiat,Egea,1.6 Multijet Comfort,2017,145000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,320,1598,120,3750,1750,"9,8",200,"3,9","1 değişen, 2 boyalı"
+2225,290000,Fiat,Albea,Sole 1.3 Multijet Active,2012,206300,Düz,Dizel,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2226,887000,Renault,Clio,1.3 TCe Icon,2020,52000,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,240,1332,130,5000,1600,9,200,"5,2","2 değişen, 2 boyalı"
+2227,910000,Seat,Leon,1.6 TDI Style,2017,121500,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1598,115,4000,1500,"9,8",197,"4,1","1 değişen, 7 boyalı"
+2228,1120000,Seat,Leon,1.4 EcoTSI FR,2017,102000,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1395,150,6000,1500,8,215,"4,9",Belirtilmemiş
+2229,420000,Hyundai,Getz,1.4 DOHC HY KLM,2006,175000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,125,1399,97,6000,3200,"11,2",170,6,4 boyalı
+2230,840000,Toyota,Corolla,1.6 Touch,2015,115000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,160,1598,132,6400,4400,10,200,"6,3",Belirtilmemiş
+2231,420000,Renault,Megane,1.4 Authentique,2006,180000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,124,1390,98,6000,3750,"12,7",185,"6,7",Belirtilmemiş
+2232,700000,Fiat,Egea,1.6 Multijet Comfort,2017,128000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,320,1598,120,3750,1750,"9,8",200,"3,9",2 boyalı
+2233,510000,Renault,Symbol,1.2 Joy,2015,184000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,107,1149,75,5500,4250,"14,5",156,6,5 boyalı
+2234,952750,Ford,Focus,1.6 Ti-VCT Trend X,2017,48000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,159,1596,125,6000,4000,"10,9",192,6,Belirtilmemiş
+2235,1098750,Toyota,Corolla,1.4 D-4D Premium 50.Yıl,"Yıl
+2017",94650,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,205,1364,90,3800,1800,"14,7",180,"4,1",Belirtilmemiş
+2236,600000,Volkswagen,Jetta,1.6 Midline,2008,207000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,148,1595,102,5600,3800,"12,2",186,"7,4","2 değişen, 2 boyalı"
+2237,575000,Hyundai,Coupe,1.6 FX,2006,187999,Düz,LPG & Benzin,Coupe,,Sahibinden,Önden Çekiş,4,143,1599,105,5800,4500,"11,6",185,"7,6",3 boyalı
+2238,690000,Opel,Astra,1.3 CDTI ecoFLEX Sport,2011,140000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,190,1248,95,4000,3250,"14,7",170,"4,2",3 boyalı
+2239,600000,Ford,Focus,1.6 Ghia,2008,231000,Düz,LPG & Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,150,1596,100,,,"14,2",182,"6,7",Belirtilmemiş
+2240,665000,Ford,Fiesta,1.4 Titanium X,2011,119000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,128,1388,96,5750,4200,"13,9",166,"6,5",Tamamı orjinal
+2241,595000,Ford,Fiesta,1.4 TDCi Titanium X,2011,205000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1398,70,4000,1750,"14,9",162,"4,2",Belirtilmemiş
+2242,860000,Citroen,C3,1.2 PureTech Shine,2020,36000,Otomatik,Benzin,Hatchback/5,Garantisi Var,Sahibinden,Önden Çekiş,3,205,1199,112,5500,1500,10,193,"4,8",Belirtilmemiş
+2243,910000,Volkswagen,Jetta,1.4 TSi BlueMotion Comfortline,2016,84000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1395,125,5000,1400,"9,6",206,"5,3",2 değişen
+2244,320000,Skoda,Fabia,1.4 TDI Ambiente,2006,285000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,3,195,1422,75,,,"14,4",169,"4,5","1 değişen, 1 boyalı"
+2245,590000,Seat,Ibiza,1.4 Style,2015,81000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,132,1390,85,5000,3800,"11,8",177,"5,9",Belirtilmemiş
+2246,680000,Renault,Symbol,1.5 dCi Joy,2018,127000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,220,1461,90,4000,1750,"12,2",167,"3,9",Belirtilmemiş
+2247,920000,Hyundai,i20,1.0 T-GDI Style,2021,7500,Otomatik,Benzin,Hatchback/5,Garantisi Var,Galeriden,Önden Çekiş,3,172,998,100,6000,1500,"11,4",185,"5,2",Tamamı orjinal
+2248,358000,Toyota,Corolla,1.6 XEi,1998,503000,Düz,LPG & Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,145,1587,105,,,10,195,,1 değişen
+2249,870000,Seat,Leon,1.6 TDI Style,2017,227000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1598,115,4000,1500,"9,8",197,"4,1",5 boyalı
+2250,1615000,Volkswagen,Passat,1.5 TSi Business,2019,60000,Yarı Otomatik,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1498,150,5000,1500,"8,6",213,"5,3",Tamamı orjinal
+2251,695000,Opel,Astra,1.3 CDTI Business,2014,281000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,190,1248,95,4000,1750,"14,6",180,"4,1",Belirtilmemiş
+2252,270000,Toyota,Corolla,1.3 Terra,1999,286000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,150,1332,86,,,"12,5",175,"6,9",Belirtilmemiş
+2253,545000,Volkswagen,Passat,1.6 FSi Trendline,2008,344000,Düz,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,155,1598,115,6000,4000,"11,4",200,"7,5",Belirtilmemiş
+2254,1164000,Volkswagen,Passat,1.6 TDi BlueMotion Comfortline,2015,125000,Düz,Dizel,Sedan,Garantisi Var,Galeriden,Önden Çekiş,4,250,1598,120,4000,1750,"10,8",206,4,Tamamı orjinal
+2255,530000,Fiat,Linea,1.3 Multijet Pop,2015,120000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",4 boyalı
+2256,335000,Volkswagen,Passat,1.9 TDi Comfortline,2000,275000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,235,1896,110,,,"11,3",196,"5,3","1 değişen, 4 boyalı"
+2257,659500,Fiat,Egea,1.4 Fire Easy,2020,35000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,5",185,"5,7",Tamamı orjinal
+2258,245000,Hyundai,Accent,1.5 GLS,1997,367000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,118,1341,75,5500,3500,"12,8",174,"6,5",Belirtilmemiş
+2259,440000,Hyundai,i10,1.0 D-CVVT Style,2013,120000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,3,95,998,65,5500,3500,"14,9",155,"4,7",Belirtilmemiş
+2260,345000,Toyota,Carina,2.0 GLi,1997,290000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,183,1998,133,,,"10,7",200,,Belirtilmemiş
+2261,675000,Renault,Clio,1.5 dCi Joy,2015,81000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1461,75,,,"14,3",168,"3,6",Tamamı orjinal
+2262,1100000,Renault,Megane,1.3 TCe Joy,2021,20050,Yarı Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,240,1332,140,5000,1600,9,205,"5,3",Tamamı orjinal
+2263,1050000,Renault,Clio,1.0 TCe Touch,2023,5000,Düz,Benzin,Hatchback/5,Garantisi Var,Sahibinden,Önden Çekiş,,,1201 - 1400 cm3,76 - 100 HP,,,,,,Belirtilmemiş
+2264,365000,Ford,Focus,1.6 Ambiente,2001,152000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,143,1596,100,6000,4000,"11,2",180,"6,9","3 değişen, 5 boyalı"
+2265,630000,Fiat,Egea,1.3 Multijet Easy,2017,91000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"11,7",183,"4,1",1 boyalı
+2266,705000,Peugeot,301,1.6 BlueHDI Active,2018,158000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,,,1601 - 1800 cm3,101 - 125 HP,,,,,,Belirtilmemiş
+2267,765000,Renault,Taliant,1.0 Tce Joy,2021,28000,Otomatik,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,3,142,999,90,5000,1750,"13,9",169,"6,1",Tamamı orjinal
+2268,325000,Citroen,C3,1.4 HDi X,2004,289000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1398,71,4000,2000,"15,4",165,"4,2",10 boyalı
+2269,390000,Renault,Megane,1.5 dCi Expression,2008,368000,Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,100,4000,2000,"14,9",174,"5,8","1 değişen, 3 boyalı"
+2270,328000,Peugeot,307,1.6 XT,2003,348000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,147,1587,110,,,14,186,"7,9",Belirtilmemiş
+2271,360000,Renault,Clio,1.2 Authentique,2004,192000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,105,1149,75,5500,4250,"13,4",167,"5,9","1 değişen, 3 boyalı"
+2272,750000,Dacia,Sandero,0.9 TCe Stepway Easy-R,2019,76000,Yarı Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,3,140,898,90,5000,2250,"11,1",168,"5,1",Tamamı orjinal
+2273,780000,DS Automobiles,DS4,1.6 e-HDi D-Sport,2013,115000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,270,1560,117,3600,1750,"11,3",190,"4,4",2 boyalı
+2274,1600000,Audi,A6,A6 Sedan 2.0 TDI,2015,184000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,400,1968,190,3800,1750,"8,2",232,"4,4",4 boyalı
+2275,850000,Toyota,Corolla,1.33 Life,2016,49000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,128,1329,99,6000,3800,"12,6",180,"5,8",Tamamı orjinal
+2276,145000,Renault,R 9,1.4 Broadway,1994,3821,Düz,LPG & Benzin,Sedan,Garantisi Var,Sahibinden,Arkadan İtiş,,,,76 - 100 HP,,,,,,Belirtilmemiş
+2277,2150000,Audi,A5,A5 Sportback 1.4 TFSI,2017,41000,Otomatik,Benzin,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2278,1050000,Renault,Megane,1.5 dCi Icon,2017,132000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,260,1461,110,4000,1750,"11,6",190,"3,9",Belirtilmemiş
+2279,440000,Renault,Clio,1.4 Alize,2005,257000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,127,1390,98,,,"11,2",186,7,Tamamı orjinal
+2280,700000,Ford,Mondeo,2.0 TDCi Trend,2011,274000,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,320,1997,140,3750,1750,"10,2",205,"5,6",1 değişen
+2281,735000,Renault,Clio,1.5 dCi Icon,2014,96000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,,,"11,7",181,"3,6",Tamamı orjinal
+2282,1805000,Skoda,SuperB,1.6 TDI Prestige,2017,108500,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1598,120,3500,1500,11,206,"4,1",Tamamı orjinal
+2283,415000,Chevrolet,Aveo,1.4 SX,2007,111000,Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,130,1399,94,6200,3400,"11,9",170,"7,1","3 değişen, 2 boyalı"
+2284,125000,Tofaş,Serçe,,1994,78000,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,102,1239,65,5400,3000,19,150,,Belirtilmemiş
+2285,649000,Honda,Civic,1.6 i-VTEC ES,2005,192000,Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1590,110,6300,4800,"11,3",192,7,Belirtilmemiş
+2286,815000,Renault,Clio,1.5 dCi Icon,2016,120000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,220,1461,90,,,"11,7",181,"3,6",1 boyalı
+2287,460000,Hyundai,Accent Era,1.4 Team,2009,210000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,125,1399,97,6000,4700,"12,3",177,"6,5",7 boyalı
+2288,265000,Renault,R 19,1.6 Europa RTE,1999,270000,Düz,LPG & Benzin,Hatchback/5,-,Sahibinden,-,,,-,-,,,,,,"1 değişen, 1 boyalı"
+2289,725000,Renault,Fluence,1.5 dCi Touch,2015,197000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4",Belirtilmemiş
+2290,550000,Lancia,Delta,1.6 MJet,2011,289000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,300,1598,120,5000,1750,"10,7",194,"4,7",4 boyalı
+2291,590000,Renault,Fluence,1.5 dCi Dynamique,2012,275000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4","1 değişen, 3 boyalı"
+2292,605000,Renault,Fluence,1.5 dCi Joy,2013,180000,Düz,Dizel,Sedan,-,Sahibinden,,,,,,,,,,,4 boyalı
+2293,355000,Ford,Fiesta,1.4 TDCi Comfort,2006,227000,Düz,Dizel,Hatchback/3,Garantisi Yok,Galeriden,Önden Çekiş,4,160,1399,68,,,"14,9",164,"4,3",Belirtilmemiş
+2294,435000,Ford,Focus,1.6 Collection,2007,188000,Düz,LPG & Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,150,1596,100,6000,4000,"11,9",180,"6,7","1 değişen, 3 boyalı"
+2295,450000,Peugeot,207,1.4 Trendy,2007,246000,Düz,LPG & Benzin,Hatchback/3,,Sahibinden,Önden Çekiş,4,133,1360,91,,,"12,7",180,"6,4",Belirtilmemiş
+2296,349000,Chevrolet,Kalos,1.4 SX,2005,199000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,130,1399,94,6200,3400,"11,9",170,"7,6",Belirtilmemiş
+2297,440000,Kia,Rio,1.25 CVVT Fancy,2014,257000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,121,1248,85,6000,4000,"13,1",168,"5,1","1 değişen, 9 boyalı"
+2298,790000,Opel,Corsa,1.4 Twinport Enjoy,2012,107000,Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,130,1364,100,6000,4000,"13,9",172,"5,9","2 değişen, 2 boyalı"
+2299,365000,Renault,Megane,1.4 Authentique,2005,252000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,127,1390,98,,,"12,7",185,"6,7",Belirtilmemiş
+2300,1175000,Ford,Focus,1.0 EcoBoost Titanium Stil,2023,6900,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,3,170,999,125,6000,1400,"10,2",200,"5,6",Tamamı orjinal
+2301,445000,Skoda,Roomster,1.4 TDI Style,2008,240,Düz,Dizel,MPV,,Sahibinden,Önden Çekiş,3,195,1422,80,,,"14,7",165,"5,1",Belirtilmemiş
+2302,200000,Ford,Taunus,1.6 GT,1988,89000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,137,1592,101,6000,4000,,162,,Tamamı orjinal
+2303,1325000,BMW,5 Serisi,525d xDrive xDrive,2013,195000,Otomatik,Dizel,Station wagon,,Sahibinden,4WD (Sürekli),4,450,1995,218,4400,1500,"7,3",228,"5,1",Belirtilmemiş
+2304,189000,Renault,R 9,1.4 Broadway RL,1997,310000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,,1390,83,5750,3500,,168,,Belirtilmemiş
+2305,730000,Ford,Focus,1.6 TDCi Style,2013,81000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,270,1560,115,3600,2500,"10,9",193,"4,2","1 değişen, 1 boyalı"
+2306,285000,Fiat,Palio,1.2 EL,2003,303000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,104,1242,81,5000,4000,"13,2",166,"7,2","2 değişen, 5 boyalı"
+2307,705000,Fiat,Egea,1.4 Fire Urban,2021,28000,Düz,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,8",186,"6,4",Belirtilmemiş
+2308,410000,Ford,Fiesta,1.4 Comfort,2006,203500,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,124,1388,80,5700,3500,"13,2",167,"6,2",4 boyalı
+2309,299000,Renault,Clio,1.4 RTA,2001,219000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,114,1390,75,5500,4250,"12,1",170,"6,8",Belirtilmemiş
+2310,418000,Toyota,Corolla,1.6 Terra,2005,344000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,150,1598,110,6000,3800,"10,2",190,"6,5",Belirtilmemiş
+2311,730000,Fiat,Egea,1.6 E-Torq Lounge Plus,2017,135000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,152,1598,110,5500,4500,"11,2",192,"6,3","3 değişen, 3 boyalı"
+2312,520000,Opel,Corsa,1.2 Twinport Essentia,2009,178000,Yarı Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,110,1229,80,5600,4000,"15,4",168,"5,7",1 boyalı
+2313,395000,Fiat,Linea,1.3 Multijet Active,2008,235500,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,90,4000,1750,"13,8",170,"4,9","3 değişen, 6 boyalı"
+2314,639000,Volkswagen,Jetta,1.6 FSi Comfortline,2007,199000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"11,1",194,"6,9",1 değişen
+2315,1235000,Audi,A3,A3 Sedan 1.6 TDI Attraction,2016,106000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,110,3200,1500,"10,7",203,"3,9",Tamamı orjinal
+2316,685000,Toyota,Corolla,1.33 Life,2013,103000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,128,1329,99,6000,3800,"12,6",180,"5,8",2 boyalı
+2317,910000,Ford,Focus,1.6 TDCi Trend X,2017,90000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,230,1560,95,3600,1500,"12,6",182,"4,5","1 değişen, 1 boyalı"
+2318,140000,Fiat,Uno,60 S,1993,293000,Düz,LPG & Benzin,Hatchback/3,,Sahibinden,Önden Çekiş,4,,1108,58,,,,,,Tamamı orjinal
+2319,685000,Opel,Astra,1.3 CDTI Cosmo,2012,205000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,190,1248,95,4000,1750,"14,6",180,"4,2",2 boyalı
+2320,255000,Opel,Vectra,2.0 GLS,1993,298000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,,1998,115,,,,,,"2 değişen, 5 boyalı"
+2321,410000,Renault,Clio,1.4 Alize,2007,182000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,127,1390,98,6000,3750,"11,2",186,"7,3",Belirtilmemiş
+2322,320000,Opel,Corsa,1.2 Twinport Enjoy 111,2011,139000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,115,1229,85,5600,4000,"13,6",172,"5,3","5 değişen, 6 boyalı"
+2323,825000,Volkswagen,VW CC,1.4 TSi,2015,220000,Yarı Otomatik,Benzin,Coupe,,Sahibinden,Önden Çekiş,4,240,1390,160,5500,2000,"8,5",222,"6,1",Belirtilmemiş
+2324,695000,Fiat,Egea,1.4 Fire Easy Stil,2020,32000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,,,1368,94,,,,,,Tamamı orjinal
+2325,670000,Opel,Corsa,1.4 Twinport Active,2013,86500,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,130,1364,100,6000,4000,"13,9",172,"5,7",Tamamı orjinal
+2326,275000,Hyundai,Accent,1.5 CRDi Admire,2004,247000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,3,184,1493,82,4000,2000,"17,8",170,"5,5",Belirtilmemiş
+2327,330000,Nissan,Almera,1.8 Luxury,2000,245000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,158,1769,114,,,"12,8",173,"7,8",Belirtilmemiş
+2328,643000,Fiat,Egea,1.3 Multijet Urban,2017,112000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"11,7",183,"4,1","1 değişen, 3 boyalı"
+2329,530000,Peugeot,407,1.6 HDi Comfort,2008,241000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,240,1560,112,4000,1750,"11,7",192,"5,3",1 değişen
+2330,350000,Renault,Megane,1.6 RTE,2000,235000,Düz,LPG & Benzin,Station wagon,Garantisi Yok,Sahibinden,Önden Çekiş,4,148,1598,107,,,"10,3",193,"7,2",12 boyalı
+2331,960000,Toyota,Corolla,1.6 Life,2018,21000,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1598,132,6400,4400,10,200,"6,3",Tamamı orjinal
+2332,575000,Ford,Fiesta,1.4 My Fiesta,2011,148500,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,128,1388,96,5750,4200,"13,9",166,"6,5","1 değişen, 9 boyalı"
+2333,815000,Hyundai,i20,1.4 CRDi Style,2018,118000,Düz,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,240,1396,90,4000,1500,"13,5",175,"4,1",Tamamı orjinal
+2334,537000,Citroen,C-Elysee,1.6 HDi Confort,2016,257000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3",Belirtilmemiş
+2335,450000,Renault,Symbol,1.5 dCi Expression Plus,2011,216000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1461,85,3750,1750,"12,3",177,"4,3","1 değişen, 9 boyalı"
+2336,760000,Fiat,Egea,1.6 Multijet Lounge,2015,108500,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,320,1598,120,3750,1750,"9,7",199,"4,2",2 boyalı
+2337,585000,Citroen,C4 Picasso,1.6 HDi SX PK,2007,237000,Yarı Otomatik,Dizel,MPV,,Sahibinden,Önden Çekiş,4,240,1560,111,4000,1750,"13,2",180,"5,7",4 boyalı
+2338,750000,Honda,Civic,1.6 i-VTEC ES,2004,280000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1590,110,6300,4800,"11,3",192,7,Tamamı orjinal
+2339,260000,Fiat,Albea,1.3 Multijet Active,2006,265000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,180,1248,70,4000,1750,"14,5",160,"4,7",Belirtilmemiş
+2340,1492000,Audi,A3,A3 Sportback 35 TFSI Dynamic,2020,27000,Yarı Otomatik,Benzin,Hatchback/5,-,Sahibinden,Önden Çekiş,4,250,1498,150,6000,1500,"8,2",220,"4,9",Tamamı orjinal
+2341,850000,Toyota,Avensis,1.6 Elegant Extra,2013,157000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1598,132,6400,4400,"10,4",200,"6,5",Tamamı orjinal
+2342,315000,Opel,Corsa,1.0 Essentia,2004,204000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,3,88,998,60,,,16,156,"5,3",10 boyalı
+2343,233500,Tofaş,Doğan,SLX ie,1997,54000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,124,1581,96,5500,3000,"13,2",180,"6,6",Tamamı orjinal
+2344,490284,Peugeot,207,1.4 HDi Trendy,2007,189000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1398,71,4000,2000,"15,1",166,"4,5",4 boyalı
+2345,275000,Ford,Escort,1.6 CLX,1996,173000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,130,1597,90,,,"12,3",177,,Tamamı boyalı
+2346,315000,Renault,Clio,1.5 dCi Alize,2006,328000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1461,65,4000,2000,15,163,5,"2 değişen, 6 boyalı"
+2347,760000,Fiat,Egea,1.4 Fire Easy Plus,2023,6000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,8",186,"6,4",Tamamı orjinal
+2348,835000,Toyota,Corolla,1.4 D-4D Touch,2016,200800,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,205,1364,90,3800,1800,"14,7",180,"4,1",Belirtilmemiş
+2349,425000,Ford,Mondeo,2.0 Ghia,2001,252000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,190,1999,145,6000,4500,"11,4",190,"9,4","1 değişen, 4 boyalı"
+2350,670000,Volkswagen,Passat,2.0 TDi Comfortline,2006,295000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,320,1968,140,4000,2500,"9,8",206,"6,8",Belirtilmemiş
+2351,938000,Volkswagen,Golf,1.6 TDi BlueMotion Comfortline,2016,164000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1598,110,3200,1500,"10,5",195,"3,9",Belirtilmemiş
+2352,910000,Hyundai,i30,1.6 CRDi Style Design Pack,2016,89000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,300,1582,136,4000,1750,"10,6",200,"4,4",Tamamı orjinal
+2353,460000,Peugeot,308,1.6 HDi Comfort,2009,248000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,240,1560,112,4000,1750,"11,3",190,"4,9",Belirtilmemiş
+2354,718500,Fiat,Egea,1.3 Multijet Easy Stil,2018,79000,Düz,Dizel,Sedan,,Sahibinden,,,,,,,,,,,1 değişen
+2355,1100000,Renault,Megane,1.5 Blue DCI Joy Comfort,2023,6300,Düz,Dizel,Sedan,,Sahibinden,,,,,,,,,,,Tamamı orjinal
+2356,969750,Volkswagen,Polo,1.0 TSi Comfortline,2020,24900,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,3,175,999,95,5500,2000,"10,8",187,"4,6",Belirtilmemiş
+2357,105000,Lada,Samara,1.5,1991,167000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,110,1499,68,4800,2800,15,150,,Belirtilmemiş
+2358,813500,Kia,Ceed,1.6 CRDi Premium SW,2014,181000,Otomatik,Dizel,Station wagon,,Sahibinden,Önden Çekiş,4,260,1582,128,4000,2750,"12,1",185,"4,4",Tamamı orjinal
+2359,980000,MINI,Cooper,1.5 D Pepper,2015,125000,Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,3,270,1496,116,4000,1750,"9,5",202,"3,8","1 değişen, 2 boyalı"
+2360,190000,Fiat,Tempra,1.6 SX A,1993,1,Düz,LPG & Benzin,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2361,910000,Volkswagen,Passat,1.6 TDi BlueMotion Comfortline,2015,160000,Yarı Otomatik,Dizel,Station wagon,,Sahibinden,Önden Çekiş,4,250,1598,120,4000,1750,11,204,4,Belirtilmemiş
+2362,305000,Renault,Clio,1.5 dCi Alize,2003,400000,Düz,Dizel,Hatchback/3,,Sahibinden,Önden Çekiş,4,160,1461,65,,,15,162,"4,3",Belirtilmemiş
+2363,849500,Opel,Astra,1.6 CDTI Dynamic,2016,163000,Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,320,1598,136,3500,2000,"9,7",205,"4,6",Belirtilmemiş
+2364,752000,Honda,Civic,1.6 i-VTEC Premium,2010,131000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1595,125,6500,4200,"10,3",192,"6,7",Belirtilmemiş
+2365,290000,Hyundai,Accent Era,1.5 CRDi-VGT Select,2008,100000,Düz,Dizel,Cabrio,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2366,945000,Volkswagen,Golf,1.2 TSi Comfortline,2015,93000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,175,1197,110,4600,1400,"9,9",195,"4,9",Belirtilmemiş
+2367,665000,Toyota,Corolla,1.6 Comfort,2009,183000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,157,1598,124,6000,5200,"11,9",185,"7,2","2 değişen, 1 boyalı"
+2368,300000,Seat,Cordoba,1.6 Signo,2000,267000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,145,1595,100,,,11,188,"7,8",Tamamı orjinal
+2369,575000,Toyota,Corolla,1.4 D-4D Class,2008,266500,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,190,1364,90,3800,1800,12,175,"4,9",Tamamı orjinal
+2370,765000,Seat,Leon,1.4 TSI FR,2013,226000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,250,1395,140,6000,3500,"8,2",211,"5,2","1 değişen, 2 boyalı"
+2371,750000,Opel,Corsa,1.4 Enjoy,2016,67000,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,130,1398,90,6000,4000,"13,9",170,6,Belirtilmemiş
+2372,925000,Honda,Civic,1.6 i-VTEC Dream,2016,88750,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,152,1598,125,6500,4300,"9,7",200,"6,7",2 boyalı
+2373,630000,Renault,Megane,1.5 dCi Touch,2013,195000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1461,90,4000,1750,"12,5",180,"4,4",Tamamı orjinal
+2374,355000,Opel,Vectra,1.6 Comfort,2001,315000,Düz,LPG & Benzin,Station wagon,,Sahibinden,Önden Çekiş,4,150,1598,100,,,13,185,"7,4","3 değişen, 8 boyalı"
+2375,650000,Toyota,Corolla,1.4 D-4D Comfort Extra,2011,168000,Düz,Dizel,Sedan,,Sahibinden,,,,,,,,,,,Tamamı orjinal
+2376,790000,Fiat,Egea,1.3 Multijet Easy,2022,29000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"12,8",184,"4,1",Tamamı orjinal
+2377,220000,Opel,Corsa,1.7 DTi Comfort,2003,342000,Düz,Dizel,Hatchback/3,,Sahibinden,Önden Çekiş,4,165,1686,75,,,"13,5",170,"4,7",2 değişen
+2378,595000,Volkswagen,Polo,1.6 TDi Comfortline,2014,118000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,230,1598,90,4200,2500,"11,5",180,"4,3","2 değişen, 4 boyalı"
+2379,1750000,BMW,3 Serisi,320i ED M Plus,2016,105000,Otomatik,Benzin,Sedan,Garantisi Yok,Sahibinden,Arkadan İtiş,4,250,1598,170,4800,1500,"7,6",230,"5,3",Tamamı orjinal
+2380,535000,Peugeot,301,1.6 HDi Access,2016,270000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3",1 boyalı
+2381,875000,Renault,Megane,1.5 dCi Icon,2017,102000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1461,110,4000,1750,"12,5",190,"3,8",3 değişen
+2382,270000,Volkswagen,Polo,1.6 Classic,1998,257000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,135,1598,75,,,"13,3",170,"7,1",Belirtilmemiş
+2383,370000,Volkswagen,Golf,1.6 FSi Comfortline,2004,250000,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"10,8",192,"6,7",Belirtilmemiş
+2384,250000,Ford,Escort,1.6 CLX,1998,190000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,130,1597,90,,,"12,3",177,,Belirtilmemiş
+2385,1210000,Mercedes - Benz,CLA,180 CDI AMG,2014,191000,Otomatik,Dizel,Coupe,,Sahibinden,Önden Çekiş,4,260,1462,109,4000,2500,"11,9",205,"3,8",3 boyalı
+2386,170000,Ford,Escort,1.6 CL,1997,96000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,130,1597,90,5300,3000,"12,3",177,,Belirtilmemiş
+2387,900000,Opel,Astra,1.6 CDTI Elite,2016,110000,Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,320,1598,136,3500,2000,"11,6",200,"5,1",2 boyalı
+2388,625000,Toyota,Corolla,1.4 D-4D Class,2007,190290,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,190,1364,90,3800,1800,12,175,"4,9",Belirtilmemiş
+2389,1160000,Toyota,Corolla,1.6 Vision,2020,21860,Yarı Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,159,1598,132,6400,4400,"10,2",190,"5,5",Belirtilmemiş
+2390,760000,BMW,5 Serisi,520i Touring,2004,220000,Düz,Benzin,Station wagon,,Sahibinden,Arkadan İtiş,6,210,2171,170,6000,4000,"9,5",223,"9,5",Belirtilmemiş
+2391,890000,Honda,Civic,1.6 i-VTEC ECO Elegance,2015,153920,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1598,125,6500,4300,"9,9",200,"6,7",Belirtilmemiş
+2392,1515000,Volkswagen,Passat,1.5 TSi Business,2020,74250,Yarı Otomatik,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,250,1498,150,5000,1500,"8,6",213,"5,3",Tamamı orjinal
+2393,830000,Fiat,Egea,1.3 Multijet Urban Plus,2019,67618,Düz,Dizel,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,200,1248,95,3750,1500,"11,7",183,"4,1",Tamamı orjinal
+2394,840000,Toyota,Corolla,1.33 Life,2017,129000,Düz,LPG & Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,128,1329,99,6000,3800,"12,6",180,"5,8",Tamamı orjinal
+2395,650000,Renault,Clio,1.5 dCi Joy,2016,164000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1461,75,,,"14,3",168,"3,6","1 değişen, 3 boyalı"
+2396,215000,Fiat,Tempra,1.6 SX A,1993,412000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,124,1581,90,5750,2750,"12,9",182,,Tamamı orjinal
+2397,699000,Volkswagen,Golf,1.4 TSi Midline,2009,155000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1390,122,5000,1500,"9,4",197,"6,3",2 boyalı
+2398,720000,Opel,Astra,1.6 Edition,2015,101000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,155,1598,115,6000,4000,"12,3",185,"6,6",Tamamı orjinal
+2399,678000,Renault,Clio,1.2 Joy,2015,73000,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,190,1197,120,,,"9,4",199,"5,2",Belirtilmemiş
+2400,809000,Hyundai,Elantra,1.6 D-CVVT Style,2016,117000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,158,1591,127,6300,4850,"10,1",200,"6,5",Belirtilmemiş
+2401,570000,Dacia,Sandero,1.5 dCi Stepway,2016,69800,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"11,8",167,4,"1 değişen, 2 boyalı"
+2402,845000,Toyota,Corolla,1.6 Advance,2014,122400,Düz,Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,160,1598,132,6400,4400,10,200,"6,3",Tamamı orjinal
+2403,149500,Tofaş,Şahin,1.4,1999,37250,Düz,LPG & Benzin,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2404,670000,Fiat,Egea,1.4 Fire Street,2020,123000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"12,1",185,"5,7",Belirtilmemiş
+2405,360000,Renault,Megane,1.5 dCi Extreme,2009,260000,Düz,Dizel,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2406,475000,Opel,Corsa,1.2 Twinport Enjoy,2010,159000,Yarı Otomatik,LPG & Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,110,1229,85,5600,4000,"14,9",172,"5,1",Belirtilmemiş
+2407,675000,Ford,Focus,1.6 TDCi Titanium,2011,149800,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,240,1560,110,4000,1750,"11,1",190,"4,5",Tamamı orjinal
+2408,875000,Volkswagen,Jetta,1.6 TDi Comfortline,2013,174500,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,250,1598,105,4400,2500,"11,7",190,"4,7",Belirtilmemiş
+2409,690000,Ford,Focus,1.6 TDCi Trend,2013,214000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,230,1560,95,3600,2000,"12,5",180,"4,2","1 değişen, 9 boyalı"
+2410,800000,Opel,Astra,1.4 T Cosmo,2013,76800,Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1364,140,4900,1850,"10,2",200,"6,8",Belirtilmemiş
+2411,550000,Ford,Fiesta,1.5 TDCi Titanium X,2013,154000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,185,1498,75,4000,1700,"13,5",167,"3,7","2 değişen, 5 boyalı"
+2412,370000,Hyundai,Getz,1.3 GLS,2005,142000,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,117,1341,82,,,"11,5",166,"6,2","1 değişen, 2 boyalı"
+2413,745000,Volkswagen,Polo,1.6 TDi Comfortline,2012,218000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,230,1598,90,4200,2500,"11,5",180,"4,3",3 boyalı
+2414,769750,Peugeot,208,1.2 PureTech Active,2016,13900,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,3,118,1199,83,5750,2750,"14,5",178,"4,2",Tamamı orjinal
+2415,899000,Volkswagen,Passat,1.6 TDi BlueMotion Comfortline,2012,162000,Düz,Dizel,Sedan,-,Sahibinden,Önden Çekiş,4,250,1598,105,4400,2500,"12,2",195,"4,3",Tamamı orjinal
+2416,1220000,Seat,Leon,1.5 EcoTSI FR,2020,29000,Düz,Benzin,Hatchback/5,-,Sahibinden,Önden Çekiş,4,200,1498,130,5000,1400,"9,4",208,"5,2",Tamamı orjinal
+2417,750000,Renault,Clio,1.5 dCi Icon,2017,147000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,220,1461,90,4000,1750,"12,9",176,"3,7","1 değişen, 1 boyalı"
+2418,1225000,Honda,Civic,1.6 i-VTEC Executive,2020,80000,Otomatik,Benzin,Sedan,-,Sahibinden,Önden Çekiş,4,152,1597,125,6500,4300,"11,5",196,"6,3",Belirtilmemiş
+2419,375000,Fiat,Punto,Grande 1.4 Fire Active,2008,286000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,115,1368,77,6000,3000,"13,2",165,"5,9","2 değişen, 5 boyalı"
+2420,314000,Hyundai,Accent,1.5 CRDi Admire,2003,329000,Düz,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,3,184,1493,82,4000,2000,"17,8",170,"5,5",7 boyalı
+2421,495000,Hyundai,i20,1.4 CRDi Jump,2013,233000,Düz,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,220,1396,90,4000,1750,"13,5",174,"4,3",Belirtilmemiş
+2422,355000,Toyota,Corolla,1.6 Terra,2001,306000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,150,1598,110,,,"11,6",175,"7,8","4 değişen, 5 boyalı"
+2423,145000,Tofaş,Doğan,SL,1993,250000,Düz,LPG & Benzin,Sedan,,Sahibinden,Arkadan İtiş,4,130,1581,83,5800,2900,"13,1",170,"6,5",Belirtilmemiş
+2424,1525000,Volkswagen,Passat,1.5 TSi Impression,2020,18000,Yarı Otomatik,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,250,1498,150,5000,1500,"8,6",213,"5,3",Tamamı orjinal
+2425,836000,Ford,Focus,1.5 TDCi Trend X,2015,168000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,300,1499,120,3600,1750,"10,9",193,"4,2","1 değişen, 2 boyalı"
+2426,670000,Ford,Focus,1.6 TDCi Titanium X,2012,205000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,270,1560,115,3600,2500,"10,9",193,"4,2","1 değişen, 1 boyalı"
+2427,260000,Toyota,Corolla,1.3 XL,1994,340000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,111,1332,88,,,"11,5",175,,Tamamı orjinal
+2428,122000,Lada,Samara,1.5,1994,300000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,110,1499,68,4800,2800,15,150,,Belirtilmemiş
+2429,218500,Fiat,Bravo,1.6 SX,2000,196500,Düz,LPG & Benzin,Hatchback/3,,Sahibinden,Önden Çekiş,4,144,1581,103,5700,4000,11,184,"7,7",Tamamı boyalı
+2430,647650,Citroen,C5,1.6 e-HDi Confort,2010,126000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,,,1401 - 1600 cm3,101 - 125 HP,,,,,,6 boyalı
+2431,1100000,Renault,Megane,1.3 TCe Joy Comfort,2022,10250,Yarı Otomatik,Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,240,1332,140,5000,1600,9,205,"5,3",Tamamı orjinal
+2432,425000,BMW,3 Serisi,320i,1998,325000,Düz,LPG & Benzin,Sedan,,Sahibinden,,6,190,1991,150,,,"9,9",219,"8,9",Belirtilmemiş
+2433,685000,Chevrolet,Epica,D LT,2011,211600,Otomatik,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,320,1991,150,4000,2000,"10,1",207,"7,6",Belirtilmemiş
+2434,875000,Volvo,S40,1.6 D Premium,2011,180000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,,,1401 - 1600 cm3,101 - 125 HP,,,,,,Belirtilmemiş
+2435,155000,Hyundai,Elantra,1.8 GLS,1996,300000,Düz,LPG & Benzin,Sedan,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2436,885000,Honda,Civic,1.6 i-VTEC ECO Elegance,2013,161000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,152,1595,125,6500,4200,"10,3",192,"6,7",Belirtilmemiş
+2437,335000,Volkswagen,Passat,1.8 Basic,1999,268000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,173,1781,125,,,"12,7",201,9,6 boyalı
+2438,330000,Peugeot,206,1.4 X-Line,2005,208000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,120,1360,76,5500,3400,"12,7",171,"6,4","4 değişen, 2 boyalı"
+2439,1310000,Volkswagen,Passat,2.0 TDi BlueMotion Comfortline,2016,125000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,340,1968,150,4000,1750,"8,7",218,"4,4",5 boyalı
+2440,445000,Citroen,C-Elysee,1.6 HDi Attraction,2015,175000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3","1 değişen, 5 boyalı"
+2441,620000,Hyundai,i20,1.4 CRDi Jump,2018,225000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,240,1396,90,4000,1500,"13,5",175,"4,1","2 değişen, 3 boyalı"
+2442,1219000,Mercedes - Benz,CLA,200 AMG,2014,102000,Otomatik,Benzin,Coupe,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1595,156,5300,4000,"8,6",230,"5,1",Belirtilmemiş
+2443,1260000,Skoda,SuperB,1.6 TDI Prestige,2015,200000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1598,120,3500,1500,11,206,"4,1",Belirtilmemiş
+2444,645000,Citroen,C-Elysee,1.6 HDi Confort,2016,118000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3",Belirtilmemiş
+2445,345000,Peugeot,307,1.4 HDi XR,2004,290000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,160,1398,69,,,"17,1",160,"4,5","2 değişen, 3 boyalı"
+2446,569000,Seat,Exeo,1.6 Style,2010,175000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,148,1595,102,5600,3800,"12,6",190,"7,5","2 değişen, 1 boyalı"
+2447,745000,Ford,Fiesta,1.6 Ti-VCT Trend X,2016,60500,Yarı Otomatik,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,150,1596,105,6300,4200,"10,5",184,"5,9",Tamamı orjinal
+2448,670000,Peugeot,301,1.6 HDi Allure,2013,77000,Düz,Dizel,Sedan,-,Sahibinden,Önden Çekiş,4,230,1560,93,3500,1750,"11,2",180,"4,3",Belirtilmemiş
+2449,570000,Chevrolet,Cruze,1.6 LT Plus,2012,182000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,154,1598,124,6300,3800,"10,9",190,"6,5","2 değişen, 3 boyalı"
+2450,370000,Renault,Clio,1.4 Fidji,2004,118000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,114,1390,75,5500,4250,"12,5",170,"7,1","1 değişen, 2 boyalı"
+2451,920000,Volkswagen,Polo,1.0 TSi Comfortline,2021,20350,Yarı Otomatik,Benzin,Hatchback/5,-,Sahibinden,Önden Çekiş,3,175,999,95,5500,2000,"10,8",187,"4,6","1 değişen, 1 boyalı"
+2452,465000,Renault,Megane,1.5 dCi Expression,2006,180000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,106,4000,1900,"11,2",186,"4,7",4 boyalı
+2453,430000,Opel,Corsa,1.3 CDTI Essentia,2009,225000,Yarı Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,170,1248,70,,,16,165,"4,4","3 değişen, 2 boyalı"
+2454,1185000,Toyota,Corolla,1.6 Flame X Pack,2019,38000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,159,1598,132,6400,4400,"10,2",190,"5,5",Tamamı orjinal
+2455,740000,Opel,Astra,1.4 T Sport,2013,215000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1364,140,4900,1850,"10,2",207,"6,2",Tamamı orjinal
+2456,1962557,Skoda,SuperB,1.5 TSI Prestige,2022,10000,Otomatik,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,,,1401 - 1600 cm3,126 - 150 HP,,,,,,Belirtilmemiş
+2457,739900,Hyundai,i30,1.6 CRDi Elite,2012,147900,Otomatik,Dizel,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,260,1582,128,4000,1900,"11,7",190,"5,5",Belirtilmemiş
+2458,495000,Mercedes - Benz,E,200 Elegance,1998,540000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Arkadan İtiş,4,190,1998,136,,,"11,3",205,"9,1",9 boyalı
+2459,540000,Volkswagen,Passat,2.0 TDi Comfortline,2005,281000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,320,1968,140,4000,2500,"9,8",209,"5,8","2 değişen, 2 boyalı"
+2460,440000,Nissan,Micra,1.2 Tekna,2004,241000,Otomatik,Benzin,Hatchback/5,Garantisi Var,Galeriden,Önden Çekiş,4,110,1240,80,,,"17,9",145,"6,6","2 değişen, 8 boyalı"
+2461,1289750,Volkswagen,Passat,1.4 TSi BlueMotion Comfortline,2015,89750,Düz,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,200,1395,125,5000,1400,"9,7",208,"5,3",Belirtilmemiş
+2462,1384750,Volkswagen,Passat,1.6 TDi BlueMotion Comfortline,2015,140000,Yarı Otomatik,Dizel,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,250,1598,120,4000,1750,"10,8",206,4,Belirtilmemiş
+2463,974750,Volkswagen,Polo,1.0 TSi Comfortline,2018,65000,Yarı Otomatik,Benzin,Hatchback/5,Garantisi Yok,Galeriden,Önden Çekiş,3,175,999,95,5500,2000,"10,8",187,"4,6",Belirtilmemiş
+2464,979750,Toyota,Corolla,1.6 Advance,2018,90500,Düz,LPG & Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,160,1598,132,6400,4400,10,200,"6,3",Belirtilmemiş
+2465,845000,Renault,Megane,1.6 Joy,2017,102000,Düz,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,156,1598,115,5500,4000,"11,8",190,"6,3",Tamamı orjinal
+2466,730000,Toyota,Verso,1.6 Comfort Extra,2010,197000,Düz,LPG & Benzin,MPV,,Sahibinden,,,,1600,132,,,,,,2 boyalı
+2467,615000,Mercedes - Benz,E,200 Kompressor Elegance,2000,395000,Otomatik,LPG & Benzin,Sedan,-,Sahibinden,Arkadan İtiş,4,260,1998,186,,,,,,Belirtilmemiş
+2468,417500,Peugeot,307,1.6 HDi Comfort,2006,299000,Düz,Dizel,Station wagon,,Sahibinden,Önden Çekiş,4,240,1560,112,,,"12,8",188,5,Belirtilmemiş
+2469,140000,Skoda,Favorit,135 LX,1993,250000,Düz,LPG & Benzin,Hatchback/5,-,Sahibinden,Önden Çekiş,4,92,1289,54,,,14,150,,Belirtilmemiş
+2470,245000,Fiat,Tipo,1.6 SLX,1998,226000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,,,,,,,,,,,Belirtilmemiş
+2471,550000,Honda,Civic,1.6 i-VTEC ES,2004,265000,Otomatik,LPG & Benzin,Sedan,Garantisi Var,Sahibinden,Önden Çekiş,4,152,1590,110,6300,4800,"11,3",192,7,Belirtilmemiş
+2472,255000,Skoda,Felicia,1.3 LXi,1999,203000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,106,1289,68,,,"13,5",162,"6,7",Belirtilmemiş
+2473,675000,Hyundai,i20,1.4 CRDi Jump,2016,102000,Düz,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,240,1396,90,4000,1500,"13,5",175,"3,9",Tamamı orjinal
+2474,849000,Volkswagen,Passat,1.6 TDi BlueMotion Comfortline,2011,244000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,250,1598,105,4400,2500,"12,2",195,"4,3",2 boyalı
+2475,725000,Renault,Clio,1.5 dCi Touch,2016,88000,Yarı Otomatik,Dizel,Hatchback/5,,Sahibinden,Önden Çekiş,4,220,1461,90,4000,1750,"12,9",176,"3,7",Belirtilmemiş
+2476,165000,Renault,R 12,Toros,1989,264000,Düz,LPG & Benzin,Station wagon,-,Sahibinden,Önden Çekiş,4,,1397,72,5100,3000,,,,Belirtilmemiş
+2477,995000,Honda,City,1.5 i-VTEC Executive,2022,6200,Otomatik,Benzin,Sedan,Garantisi Var,Galeriden,Önden Çekiş,4,145,1498,121,6600,4300,"10,5",198,"6,2",Tamamı orjinal
+2478,795000,Honda,Civic,1.6 i-VTEC Elegance,2009,103000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,152,1595,125,6500,4200,"10,3",192,"7,1",Belirtilmemiş
+2479,1000000,Volkswagen,Jetta,1.2 TSi BlueMotion Comfortline,2017,140000,Yarı Otomatik,Benzin,Sedan,Garantisi Yok,Galeriden,Önden Çekiş,4,175,1197,105,5500,4000,"10,9",190,"4,9",Tamamı orjinal
+2480,120000,Fiat,Uno,60 S,1994,381400,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,87,1108,58,5700,3000,,,,Belirtilmemiş
+2481,655000,Renault,Fluence,1.5 dCi Extreme Edition,2012,185000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,240,1461,110,4000,2000,"11,5",185,"4,4",Tamamı orjinal
+2482,410000,Fiat,Linea,1.3 Multijet Active Plus,2010,295000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,200,1248,90,4000,1750,"13,8",170,"4,9",3 boyalı
+2483,540000,Hyundai,Getz,1.4 DOHC Start,2009,107500,Düz,Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,125,1399,97,6000,3200,"11,2",170,6,Tamamı orjinal
+2484,625000,Ford,Mondeo,1.6 TDCi Titanium,2013,178000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,270,1560,115,3600,2500,"11,9",190,"4,9",6 boyalı
+2485,515000,Volkswagen,Polo,1.4 Comfortline,2004,171000,Otomatik,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,126,1390,75,,,"15,3",168,"7,4","1 değişen, 1 boyalı"
+2486,250000,Honda,Accord,2.0 LS,1998,278000,Otomatik,LPG & Benzin,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,184,1997,147,6000,5000,"10,9",200,"9,1",6 boyalı
+2487,720000,Seat,Leon,1.4 TSI Copa Plus,2012,155500,Düz,Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,200,1390,125,5000,4000,"9,8",197,"6,2",Tamamı orjinal
+2488,115000,Renault,R 12,TS,1984,172000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,,1300,54,,,,,,Belirtilmemiş
+2489,735000,Fiat,Egea,1.6 Multijet Comfort,2017,130000,Yarı Otomatik,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,320,1598,120,3750,1750,"9,8",200,"3,9",1 boyalı
+2490,440000,Chevrolet,Lacetti,1.4 SX,2010,137000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,150,1598,109,5800,3600,"10,7",187,"7,1",8 boyalı
+2491,310000,Volkswagen,Bora,1.6 Comfortline,2001,320000,Otomatik,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,148,1595,102,,,"12,8",185,"8,1",4 değişen
+2492,300500,Fiat,Marea,1.6 Liberty,2004,243000,Düz,LPG & Benzin,Sedan,,Sahibinden,Önden Çekiş,4,145,1596,103,5750,4000,"10,7",187,"8,1",4 boyalı
+2493,525500,Fiat,Linea,1.3 Multijet Pop,2014,150000,Düz,Dizel,Sedan,Garantisi Yok,Sahibinden,Önden Çekiş,4,200,1248,95,4000,1500,"13,8",170,"4,9",Belirtilmemiş
+2494,420000,Alfa Romeo,146,1.4 TS,2000,294500,Düz,LPG & Benzin,Hatchback/3,Garantisi Yok,Sahibinden,Önden Çekiş,,,1401 - 1600 cm3,101 - 125 HP,,,,,,"1 değişen, 12 boyalı"
+2495,435000,Opel,Astra,1.6 Enjoy,2005,228000,Düz,LPG & Benzin,Hatchback/5,Garantisi Yok,Sahibinden,Önden Çekiş,4,150,1598,105,6000,3900,"12,3",185,"6,6","5 değişen, 4 boyalı"
+2496,200000,Renault,R 19,1.6 Europa RL,1997,370000,Düz,LPG & Benzin,Hatchback/5,,Sahibinden,Önden Çekiş,4,131,1598,90,5250,2500,"14,8",187,,Belirtilmemiş
+2497,325000,Fiat,Linea,1.6 Multijet Active Plus,2011,446000,Düz,Dizel,Sedan,,Sahibinden,Önden Çekiş,4,290,1598,105,4000,1500,11,190,5,"1 değişen, 5 boyalı"
+2498,550000,Renault,Symbol,1.4 Expression,2011,60000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,114,1390,75,5500,4250,"12,5",170,"7,1",Tamamı orjinal
+2499,655000,Fiat,Egea,1.4 Fire Easy,2019,35000,Düz,Benzin,Sedan,,Sahibinden,Önden Çekiş,4,127,1368,95,6000,4500,"11,5",185,"5,7",1 boyalı
